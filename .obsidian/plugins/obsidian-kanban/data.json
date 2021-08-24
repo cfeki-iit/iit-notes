@@ -1,0 +1,25 @@
+{
+  "show-checkboxes": true,
+  "hide-tags-in-title": true,
+  "show-relative-date": true,
+  "hide-date-display": false,
+  "hide-date-in-title": true,
+  "metadata-keys": [
+    {
+      "id": "rz4trk3a2",
+      "metadataKey": "tags",
+      "label": "",
+      "shouldHideLabel": false,
+      "containsMarkdown": false
+    },
+    {
+      "id": "54cf4zcfi",
+      "metadataKey": "description",
+      "label": "",
+      "shouldHideLabel": true,
+      "containsMarkdown": false
+    }
+  ],
+  "new-note-template": "Templates/_KanbanCard.md",
+  "new-note-folder": "/"
+}
