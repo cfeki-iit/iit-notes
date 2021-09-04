@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d5bd422efbe9b7ce",
+        "id": "0fc9c249f647ea99",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/_KanbanCard.md",
+            "file": "Licence/S3/Gestion d'Entreprise/GE- Notions de base.md",
             "mode": "source"
           }
         }
@@ -42,9 +42,19 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "014a56999815bde3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Licence/S3/Gestion d'Entreprise/GE- Notions de base.md"
               }
             }
           }
@@ -66,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 719
   },
   "right": {
     "id": "0883c93ff886bb66",
@@ -82,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/_KanbanCard.md",
+                "file": "Licence/S3/Gestion d'Entreprise/GE- Notions de base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,19 +102,37 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "9d34ae45b7638363",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "d5bd422efbe9b7ce",
+  "active": "0fc9c249f647ea99",
   "lastOpenFiles": [
-    "Templates/_KanbanCard.md",
-    "Templates/_lectureNote.md",
-    "License/3eme/240821-LN-.md",
-    "Untitled.md"
+    "Licence/S3/Gestion d'Entreprise/GE- Notions de base.md",
+    "Licence/S4/Securité et Droits informatiques/Securité et Droits informatiques.md",
+    "Licence/S4/Administration des Bases de données/Administration des Bases de données.md",
+    "Licence/S4/Securité et Droits informatiques/Revision/Resuma -- Droit informatique -- Chedi Feki.md",
+    "Licence/S4/S4.md",
+    "Licence/S3/S3.md",
+    "Licence/S3/Theorie des langages et Automates/Theorie des langages et Automates.md",
+    "Licence/S3/Services Réseau/Services Réseau.md",
+    "Licence/S3/Services Réseau/Console Configuration Commands.md",
+    "Licence/S3/Programmation Java/Programmation Java.md"
   ]
 }
