@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Licence/S3/Gestion d'Entreprise/GE- Notions de base.md",
+            "file": "Licence/S1/S1.md",
             "mode": "source"
           }
         }
@@ -54,7 +54,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Licence/S3/Gestion d'Entreprise/GE- Notions de base.md"
+                "file": "Licence/S1/S1.md"
               }
             }
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Licence/S3/Gestion d'Entreprise/GE- Notions de base.md",
+                "file": "Licence/S1/S1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
   },
   "active": "0fc9c249f647ea99",
   "lastOpenFiles": [
+    "Licence/S1/S1.md",
+    "Licence/S4/S4.md",
     "Licence/S3/Gestion d'Entreprise/GE- Notions de base.md",
     "Licence/S4/Securité et Droits informatiques/Securité et Droits informatiques.md",
     "Licence/S4/Administration des Bases de données/Administration des Bases de données.md",
     "Licence/S4/Securité et Droits informatiques/Revision/Resuma -- Droit informatique -- Chedi Feki.md",
-    "Licence/S4/S4.md",
     "Licence/S3/S3.md",
     "Licence/S3/Theorie des langages et Automates/Theorie des langages et Automates.md",
     "Licence/S3/Services Réseau/Services Réseau.md",
-    "Licence/S3/Services Réseau/Console Configuration Commands.md",
-    "Licence/S3/Programmation Java/Programmation Java.md"
+    "Licence/S3/Services Réseau/Console Configuration Commands.md"
   ]
 }
