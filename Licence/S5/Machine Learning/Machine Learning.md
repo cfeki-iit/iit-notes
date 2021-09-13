@@ -14,6 +14,7 @@ type: folder_brief_live
 ```
  
 ## Notes de cours
+* [[What is Machine Learning?]]
 ## TP
 ## Ressources 
 ### Espanso Shortcuts
