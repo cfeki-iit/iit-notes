@@ -5,5 +5,5 @@
   "folderNoteKey": "ctrl",
   "folderNoteAutoRename": true,
   "folderDelete2Note": false,
-  "folderNoteStrInit": "---\ntags: Course\n---\n\n# {{FOLDER_NAME}} \n## Overview\n {{FOLDER_BRIEF_LIVE}} \n## Notes\n"
+  "folderNoteStrInit": "---\ntags: Course\n---\n\n# {{FOLDER_NAME}} \n## Metadata\n## Overview\n {{FOLDER_BRIEF_LIVE}} \n## Notes\n## TP \n## Ressources "
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Licence/S1/S1.md",
+            "file": "Licence/S5/Animation 2D/Animation 2D.md",
             "mode": "source"
           }
         }
@@ -54,7 +54,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Licence/S1/S1.md"
+                "file": "Licence/S5/Animation 2D/Animation 2D.md"
               }
             }
           }
@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 719
+    "width": 387
   },
   "right": {
     "id": "0883c93ff886bb66",
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Licence/S1/S1.md",
+                "file": "Licence/S5/Animation 2D/Animation 2D.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
   },
   "active": "0fc9c249f647ea99",
   "lastOpenFiles": [
-    "Licence/S1/S1.md",
-    "Licence/S4/S4.md",
-    "Licence/S3/Gestion d'Entreprise/GE- Notions de base.md",
-    "Licence/S4/Securité et Droits informatiques/Securité et Droits informatiques.md",
-    "Licence/S4/Administration des Bases de données/Administration des Bases de données.md",
-    "Licence/S4/Securité et Droits informatiques/Revision/Resuma -- Droit informatique -- Chedi Feki.md",
-    "Licence/S3/S3.md",
-    "Licence/S3/Theorie des langages et Automates/Theorie des langages et Automates.md",
-    "Licence/S3/Services Réseau/Services Réseau.md",
-    "Licence/S3/Services Réseau/Console Configuration Commands.md"
+    "Licence/S5/Animation 2D/Animation 2D.md",
+    "Licence/S5/Animation 3D/Animation 3D.md",
+    "Licence/S5/Architecture Orientée Services/Architecture Orientée Services.md",
+    "Licence/S5/Cloud et Virtualisation/Cloud et Virtualisation.md",
+    "Licence/S5/Developpement d'applications Réparties/Developpement d'applications Réparties.md",
+    "Licence/S5/Developpement Mobile/Developpement Mobile.md",
+    "Licence/S5/Entreprenariat/Entreprenariat.md",
+    "Licence/S5/Frameworks et Technologies Big Data/Frameworks et Technologies Big Data.md",
+    "Licence/S5/Machine Learning/Machine Learning.md",
+    "Licence/S5/Preparation à l'environnement Professionnel/Preparation à l'environnement Professionnel.md"
   ]
 }
