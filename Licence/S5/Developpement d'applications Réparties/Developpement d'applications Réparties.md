@@ -16,3 +16,7 @@ type: folder_brief_live
 ## Notes de cours
 ## TP
 ## Ressources 
+### Espanso Shortcuts 
+* :dsys == système distribué
+* :csys == système centralisé
+* :poc == programmation orientée composants

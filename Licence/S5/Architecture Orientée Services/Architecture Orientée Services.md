@@ -17,3 +17,6 @@ type: folder_brief_live
 ## Notes de cours
 ## TP
 ## Ressources 
+### Espanso shortcuts 
+* :aos == Architecture Orientée Services 
+* :soa == Service Oriented Architecture

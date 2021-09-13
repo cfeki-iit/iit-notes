@@ -16,3 +16,9 @@ type: folder_brief_live
 ## Notes de cours
 ## TP
 ## Ressources 
+### Espanso Shortcuts
+*  :ml == Machine Learning
+*  :nn == Neural Network 
+*  :py  == Python 
+	*  !npy == Numpy 
+	*  !mpl == Matplotlib
