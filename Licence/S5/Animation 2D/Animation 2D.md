@@ -4,6 +4,7 @@ tags: Course
 
 # Animation 2D 
 ## Metadata
+* Semestre : [[S5]]
 * Professeur : [[@Rafik Khemakhem]]
 	* E-mail : 
 ## Overview

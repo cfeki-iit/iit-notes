@@ -4,7 +4,9 @@ tags: Course
 
 # Sécurité Informatique 
 ## Metadata 
+* Semestre : [[S5]]
 * Professeur : [[@Chafik Aloulou]]
+	* E-mail : 
 ## Overview
  
 ```ccard

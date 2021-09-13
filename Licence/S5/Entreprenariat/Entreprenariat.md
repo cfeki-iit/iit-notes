@@ -4,6 +4,7 @@ tags: Course
 
 # Entreprenariat
 ## Metadata
+* Semestre : [[S5]]
 * Professeur : 
 	* E-mail : 
 ## Overview
