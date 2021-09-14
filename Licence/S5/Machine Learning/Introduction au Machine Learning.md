@@ -24,6 +24,18 @@ tags: "Notes"
 		* mesurer la performance pour savoir si la machine apprend bien ( performance) 
 	* a partir d'un dataset on propose un modele sur lequel on va faire l'apprantissage on laissant une plage de test pour pouvoir mesurer la performance 
 	* usuellement le pourcentage d'erreur est le critère de mesure de la performance 
+* Etapes :
+	* PréTraitement 
+	* Machine Learning 
+		* processus de construction d'un modele a partir d'un espace de descripteurs 
+		* le modele obtenu est un représentation des relations entre les données dans une bse de données peut etre sous forme de graphique fonction ou regles 
+		* un modele est ensuite utilisé dans lebut de visualiser decrire, classifier, structurer, expliquer ou predir
+	* Validation du modele 
+		* il faut evaluer / soumettre à l'epreuve de la realiter et apprecier les justesse des modeles extraits  
+		* ameliorer le modele selon les résultats obtenus 
+		* demander l'avis d'un expert pour valider le modele 
+		* deploiement & integration du modele 
+	* 
 
 
 
