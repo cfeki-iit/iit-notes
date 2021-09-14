@@ -20,6 +20,7 @@ type: folder_brief_live
 * theorique et pratique
 ## Notes de cours
 * [[Introduction au Machine Learning]]
+* [[Classification]]
 ## TP
 ## Ressources 
 ### Espanso Shortcuts

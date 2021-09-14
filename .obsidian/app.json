@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "newFileLocation": "current",
-  "attachmentFolderPath": "Attachements"
+  "attachmentFolderPath": "Attachements",
+  "fileSortOrder": "byModifiedTimeReverse"
 }
