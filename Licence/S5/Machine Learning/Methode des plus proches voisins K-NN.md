@@ -21,10 +21,18 @@ tags: "Notes"
 	* Solution simple :
 		* rechercher le cas le plus proche et prendre la meme decision ( 1-NN )
 	* Combinaison de K-classes : 
-			* heuristique k = nombre d'attributs ° 1
-			* Vote majoritaire : prendre la classe majoritaire 
-			* Vote Majoritaire Pondéré : chaque classe est 
-	* Algorithme 
-
+		* heuristique k = nombre d'attributs ° 1
+		* Vote majoritaire : prendre la classe majoritaire 
+		* Vote Majoritaire Pondéré : chaque classe est pondérée
+	* Algorithme :
+		* voir cours !
+	* Distance 
+		* Le choix de la distance est primordial au bon fonctionnement de la methode 
+		* prop : 
+			* d(A,A)=0
+			* d(A,B) = d(B,A)
+			* 
+* critique de K-nn
+	* Pas d'apprentissage 
 ---
 [[Methode des plus proches voisins K-NN#Notes|up]]
