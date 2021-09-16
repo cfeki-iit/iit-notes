@@ -1,5 +1,7 @@
-package Exercice1;
-import java.util.*;  
+
+import java.util.*;
+import Exercice1.BanditManchot;
+
 import java.io.*; 
 
 public class testBanditManchot {

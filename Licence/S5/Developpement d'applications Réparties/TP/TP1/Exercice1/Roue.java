@@ -11,6 +11,8 @@ public class Roue {
     public void lance(){
         Random gen = new Random();
         symbole = gen.nextInt(4);
+        
+        System.out.println(symbole);
     }
     
     public int get(){

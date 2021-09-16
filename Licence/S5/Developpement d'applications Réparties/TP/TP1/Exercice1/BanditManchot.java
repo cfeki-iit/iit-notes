@@ -15,6 +15,7 @@ public class BanditManchot {
             tabRoue[i].lance();
         }
         for (int i =0; i<3; i++){
+            resultat=0;
             for (int j = i+1; j<4 ;j++){
                 if (tabRoue[i].get() == tabRoue[j].get()){
                     resultat++;
