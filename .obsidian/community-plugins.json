@@ -2,5 +2,6 @@
   "obsidian-kanban",
   "obsidian-git",
   "cm-editor-syntax-highlight-obsidian",
-  "folder-note-plugin"
+  "folder-note-plugin",
+  "cm-typewriter-scroll-obsidian"
 ]

@@ -7,6 +7,8 @@ tags: Course
 * Semestre : [[S5]]
 * Professeur : [[@Emna Ben Abdallah]]
 	* E-mail : 
+
+## Objectifs 
 ## Overview
  
 ```ccard
@@ -14,6 +16,7 @@ type: folder_brief_live
 ```
  
 ## Notes de cours
+* [[Introduction au systemes repartis]]
 ## TP
 ## Ressources 
 ### Espanso Shortcuts 
