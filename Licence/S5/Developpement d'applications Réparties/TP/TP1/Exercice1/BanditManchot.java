@@ -14,14 +14,7 @@ public class BanditManchot {
         for (int i = 0; i<4; i++){
             tabRoue[i].lance();
         }
-        for (int i =0; i<3; i++){
-            resultat=0;
-            for (int j = i+1; j<4 ;j++){
-                if (tabRoue[i].get() == tabRoue[j].get()){
-                    resultat++;
-                }
-            }
-        }
+        if()
         return (int) Math.pow(10,resultat);
     }
 }
