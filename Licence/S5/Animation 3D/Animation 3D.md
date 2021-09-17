@@ -14,5 +14,7 @@ type: folder_brief_live
 ```
  
 ## Notes de cours
+* [[Generalités sur la modelisation en 3d]]
+* [[Maillage]]
 ## TP
 ## Ressources 
