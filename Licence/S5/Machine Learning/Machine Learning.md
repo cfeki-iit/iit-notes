@@ -20,11 +20,15 @@ type: folder_brief_live
 * theorique et pratique
 ## Notes de cours
 * [[Introduction au Machine Learning]]
-* [[Classification]]
+* [[Apprentissage Supervisé]]
+	* [[Classification]]
 ## TP
 ## Ressources 
 ### Espanso Shortcuts
 * :ia == Intelligence  Artificielle
+* :ai == artificial intelligence 
+* :as == Apprentissage supervisé 
+* :ans == apprentissage non-supervisé
 * :dl == Deep Learning
 *  :ml == Machine Learning
 *  :nn == Neural Network 
@@ -34,4 +38,3 @@ type: folder_brief_live
 
 ### Books : 
 * Statistical Machine learning : modele d'apprentissage automatique sous l'angle des statistiques 
-* 
