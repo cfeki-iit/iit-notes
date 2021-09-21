@@ -31,8 +31,15 @@ tags: "Notes"
 		* prop : 
 			* d(A,A)=0
 			* d(A,B) = d(B,A)
-			* 
-* critique de K-nn
-	* Pas d'apprentissage 
+
+Exercice : 
+* Resultats 
+	* Pour K=1
+		* l'instance la plus proche et qui possède ka vakeur de la fct de decision la plus elevéee est (1,3) qui appartient a C2 donc X sera classée C2
+	* Pour K=3
+		*  les 3 instances les plus proches sont classée respectivement C1 C2 C1 alors la 	classe majoritaire est C1 ainsi X sera classé dans la classe C1 
+	*  pour K=5 
+		*  les 5 instances les plus proches sont classées respectivement c2 c1 c1 c2 c1 alors la classe majoritaire est c1 et X sera classé dans la classe C1 
+
 ---
 [[Methode des plus proches voisins K-NN#Notes|up]]
