@@ -2,7 +2,7 @@
 tags: "Notes"
 ---
 
-* Course:
+* Course:[[Machine Learning]]
 * Date: 14-09-2021 
 
 
@@ -40,6 +40,23 @@ Exercice :
 		*  les 3 instances les plus proches sont classée respectivement C1 C2 C1 alors la 	classe majoritaire est C1 ainsi X sera classé dans la classe C1 
 	*  pour K=5 
 		*  les 5 instances les plus proches sont classées respectivement c2 c1 c1 c2 c1 alors la classe majoritaire est c1 et X sera classé dans la classe C1 
+
+Exercice 2 : 
+* Pour chaque point a classer à partir du 5eme on cherche les 3 voisins les plus proches qui sont deja classés et on identifie la classe la plus représentée (classe majoritaire)
+	*	par exemple pour la 5eme instance les 3 points les plus proches qui sontdeja classés sont 2 3 4 qui sont classé respectivement dans les classes B a B 
+	*	donc la classe du point 5 est B 
+*	La classification résultante après l'application de l'algorithme K-NN avec k = 3 est : 
+	* 5 - B 
+	* 6 - A
+	* 7 - B
+	* 8 - A
+	* 9 - A
+	* 10- A
+	* 11- B
+	* 12-A
+	* 13-b 
+	* 14-A
+*  si le point tiré en 10eme position etait traité à la 6eme position, la classe de ce point sera B au lieu de A, puisque dans ce cas les points les plus proches sont 5b 2b et 3b 
 
 ---
 [[Methode des plus proches voisins K-NN#Notes|up]]
