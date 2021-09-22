@@ -6,7 +6,7 @@ tags: "Notes"
 * Date: {{date}} 
 
 
-# Notes 
+# {{title}}
 
 
 ---
