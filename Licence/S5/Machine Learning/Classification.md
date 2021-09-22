@@ -41,7 +41,7 @@ tags: "Notes"
 	* simplicité
 * Methodes de classification 
 	* [[Methode des plus proches voisins K-NN]]
-	* Arbres de decision 
+	* [[Arbres de decision]] 
 	* Machines a vecteurs supports ( svm ) 
 	* classification bayesienne 
 	* réseaux de neurones 
