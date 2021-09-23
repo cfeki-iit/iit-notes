@@ -51,7 +51,22 @@ tags: "Notes"
 				* float:
 				* double: 
 				* boolean: 
-				* char:
+				* char:	
+			* Table 
+				* conteneur d'objets qui psossède un nombre fixe de valeurs d'un type unique 
+				* la longueur du'ne table est etablie lors de sa creation
+				* operations 
+					* declaration : comme pour une declaration de variable elle est en 2 parties : son type et son n'om; on n'indique pas la taille lors de la declaration 
+					* creation et initialisation 
+						* ``` int[] anArray = new int[x]; ``` 
+						* ``` int[] anArray= [1,2,3,4,5];```
+						* ``` System.arraycopy(Object src, int srcPos, Object dest, int destPos, int length)``` 
+					* Tables multidimentionnelles 
+						* tables de tables : table dont les composants eux memes sont des tables 
+		* **Operateurs**
+			* symboles spéciaux qui effectuent des operations specifiques sur un deux ou trois operandes puis retournent un résultat 
+			* les operateurs sont classés par leur priorité 
+				* 
 		* **Paramètres**
 	* **Heritage**
 		* l'OOP permet a certains classes ( nommée classes filles ) d'heriter des états et comportements usuels d'autres classes (nommées classes mères)

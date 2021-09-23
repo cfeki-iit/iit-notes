@@ -19,11 +19,11 @@ public class BanditManchot {
         int r3 = tabRoue[2].get();
         int r4 = tabRoue[3].get();
         
-        if (r1 == r2 && r1==r3 && r1==r4)
+        if (r1==r2 && r1==r3 && r1==r4)
             resultat=1000;
-        else if (r1 == r2 && r1==r3 || r1==r2 && r1==r4 || r1==r3 && r1==r4 || r2==r3 && r2==r4)
+        else if (r1==r2 && r1==r3 || r1==r2 && r1==r4 || r1==r3 && r1==r4 || r2==r3 && r2==r4)
                 resultat=100;
-             else if (r1==r2 || r1==r3 || r1==r4 || r2 == r3 || r2==r4 || r3 == r4)
+             else if (r1==r2 || r1==r3 || r1==r4 || r2==r3 || r2==r4 || r3==r4)
                     resultat=10;
                   else 
                     resultat=0;
