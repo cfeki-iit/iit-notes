@@ -6,7 +6,12 @@ tags: Course
 ## Metadata 
 * Semestre : [[S5]]
 * Professeur : [[@Slim Kallel]]
-	* E-mail : 
+	* E-mail : slim.kallel@gmail.com
+
+## Objectifs 
+* Présenter les technologie utilisée pour le developpement des services Web ( XML / JSON )
+* Comprendre l'interet de l'architecture orientée service et d'apprendre a utiliser ses standards 
+* initier le développement des services web REST
 
 ## Overview
  
@@ -15,6 +20,11 @@ type: folder_brief_live
 ```
  
 ## Notes de cours
+* [[Introduction à l'Architecture Orientée Services]]
+* [[Technologies XML]]
+* [[JSON]]
+* [[Services Web SOAP]]
+* [[Services Web REST]]
 ## TP
 ## Ressources 
 ### Espanso shortcuts 
