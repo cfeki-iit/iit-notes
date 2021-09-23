@@ -11,7 +11,8 @@ public class ListEtudiant {
 
     public void ajouterEtudiant(Etudiant etud){
         if (nbrEtud<listEtudiant.length){
-            
+            listEtudiant[nbrEtud]=etud;
+            nbrEtud++;
         }
     }
 
