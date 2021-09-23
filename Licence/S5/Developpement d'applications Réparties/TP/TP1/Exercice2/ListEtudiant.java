@@ -16,5 +16,26 @@ public class ListEtudiant {
         }
     }
 
+    public void modifierAdresse(Etudiant etud, String adr){
+        etud.setAdresse(adr);
+    }
+
+    public Etudiant findEtudiant (String nom){
+        int i=0;
+        while (i<nbrEtud && listEtudiant[i].getNom()!=nom){
+            i++;
+        }
+        
+        return listEtudiant[i];
+    }
+
+    public int getNbrEtud() {
+        return nbrEtud;
+    }
+
+    public void setNbrEtud(int nbrEtud) {
+        this.nbrEtud = nbrEtud;
+    }
+
     
 }

@@ -17,6 +17,7 @@ type: folder_brief_live
  
 ## Notes de cours
 * [[Introduction au systemes repartis]]
+* [[Langage Java]]
 ## TP
 ## Ressources 
 ### Espanso Shortcuts 
