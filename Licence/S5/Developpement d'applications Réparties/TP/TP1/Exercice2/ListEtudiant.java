@@ -20,6 +20,7 @@ public class ListEtudiant {
         etud.setAdresse(adr);
     }
 
+    
     public Etudiant findEtudiant (String nom){
         int i=0;
         while (i<nbrEtud && listEtudiant[i].getNom()!=nom){
@@ -35,6 +36,14 @@ public class ListEtudiant {
 
     public void setNbrEtud(int nbrEtud) {
         this.nbrEtud = nbrEtud;
+    }
+
+    public Etudiant[] getListEtudiant() {
+        return listEtudiant;
+    }
+
+    public void setListEtudiant(Etudiant[] listEtudiant) {
+        this.listEtudiant = listEtudiant;
     }
 
     

@@ -9,5 +9,18 @@ public class Matiere {
         notes = new float[n];
     }
     
-    
+    public void ajouterEtudiant(Etudiant etud, float note){
+        notes[list.getNbrEtud()]=note;
+        list.ajouterEtudiant(etud);
+    }
+
+    public void afficherListeNotes(){
+        int nbretud = list.getNbrEtud();
+        Etudiant[] etuds=list.getListEtudiant();
+        for(int i =0; i<nbretud;i++){
+            System.out.println("Etudiant:\n\tNom:"+etuds[i].getNom());
+            System.out.println("\n\tAdresse:"+etuds[i].getAdresse());
+            System.out.println("\n\tNote:"+notes[i]);
+        }
+    }
 }
