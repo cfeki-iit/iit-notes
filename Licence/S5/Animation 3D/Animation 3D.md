@@ -16,5 +16,7 @@ type: folder_brief_live
 ## Notes de cours
 * [[Generalités sur la modelisation en 3d]]
 * [[Maillage]]
+* [[Images de Syntheses]]
+* 
 ## TP
 ## Ressources 

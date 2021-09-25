@@ -43,11 +43,16 @@ tags: "Notes"
 		* recouvrement utilisant des triangles ou des tetrahedres uniquement 
 		* Triangulation : 
 			* un probleme de triangulation est un probleme se rapportant à un ensemble de points et plus précisément l'enveloppe convexe de cet element 
+			* une triangulation d'un polygone p est une partition de P en un ensemble de triangle qui ne se recouvrent pas et don' l'union est exactement P 
 		* Triangulation de Delaunay : 
 			* 2d verifie le critère suivant : le disque circonscrit a un triangle est vide c'est a dire ne contient aucun sommet en son interieur 
+		* Methodes des oreilles : 
+			* une oreille est un triangle dont deux arretes appartiennet a la frontiere du polygone et la troisième située à l'interieur du polygone
+			* pour trianguler en orielle, une fois formée, la frontiere interieuere de l'oreille devient une frontiere exterieure pour les autres triangles 
+			* voir algorithme détaillé dans le cours 
 	* **enveloppe convexe**
 		* le plus petit polygone convexe incluant tous les points initiaux 
-		* 
+
 
 ---
 [[Maillage#Notes|up]]
