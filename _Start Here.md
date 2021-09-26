@@ -1,1 +1,2 @@
-hello Omar ! this is a git flow test ! 9olli ken rit el msg hetha :p 
+Hey there this is a new messae for omar 
+please say 12345 when you read this 
