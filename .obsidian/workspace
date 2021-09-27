@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Licence/S5/Entreprenariat/Sensibilisation à l'entreprenariat et la culture entreprenariale.md",
+            "file": "Licence/S5/Animation 2D/Animation 2D.md",
             "mode": "source"
           }
         }
@@ -54,7 +54,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Licence/S5/Entreprenariat/Sensibilisation à l'entreprenariat et la culture entreprenariale.md"
+                "file": "Licence/S5/Animation 2D/Animation 2D.md"
               }
             }
           }
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250
+    "width": 312,
+    "collapsed": true
   },
   "right": {
     "id": "0883c93ff886bb66",
@@ -92,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Licence/S5/Entreprenariat/Sensibilisation à l'entreprenariat et la culture entreprenariale.md",
+                "file": "Licence/S5/Animation 2D/Animation 2D.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +125,15 @@
   },
   "active": "0fc9c249f647ea99",
   "lastOpenFiles": [
-    "Licence/S5/Entreprenariat/Sensibilisation à l'entreprenariat et la culture entreprenariale.md",
+    "Licence/S5/Animation 2D/Animation 2D.md",
     "Licence/S5/Entreprenariat/Entreprenariat.md",
+    "Licence/S5/Entreprenariat/Sensibilisation à l'entreprenariat et la culture entreprenariale.md",
     "Licence/S5/Animation 3D/Animation 3D.md",
     "_Start Here.md",
     "Licence/S5/Animation 3D/Maillage.md",
     "Licence/S5/Developpement d'applications Réparties/Developpement d'applications Réparties.md",
     "Licence/S5/Architecture Orientée Services/Architecture Orientée Services.md",
     "Licence/S5/Animation 3D/Images de Syntheses.md",
-    "Licence/S5/Animation 3D/Generalités sur la modelisation en 3d.md",
-    "Licence/S5/Developpement d'applications Réparties/Langage Java.md"
+    "Licence/S5/Animation 3D/Generalités sur la modelisation en 3d.md"
   ]
 }
