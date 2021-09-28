@@ -22,6 +22,7 @@ type: folder_brief_live
 * [[Introduction au Machine Learning]]
 * [[Apprentissage Supervisé]]
 	* [[Classification]]
+	* [[Arbres de decision]]
 ## TP
 ## Ressources 
 ### Espanso Shortcuts
