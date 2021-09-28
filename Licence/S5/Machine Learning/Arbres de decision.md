@@ -30,8 +30,9 @@ tags: "Notes"
 		* le noeud et pur : toutes les instances appartiennent a une seule classe 
 		* le noeud est presque pur : la majourité des instances appartiennent a une classe majoritaire
 	* ==Algorithmes de construction des arbres==
-		* **Gain D'information**
-			* Selectionner l'attribut avec le plus grand gain d'information 
+		* **Algorithme ID3**
+			* **Gain D'information**
+			* Objectif : Selectionner l'attribut avec le plus grand gain d'information 
 			* Soient P et N deux classes et S un ensemble d'instances avec p elements de P et n elements de N
 			* L'information necessaire pour determiner si une instance prise au hasard fait partie de P ou N est : 
 			 $$I(p,n)=\frac{p}{p+n}log_2\frac{p}{p+n}-\frac{n}{p+n}log_2\frac{n}{p+n}$$
@@ -39,8 +40,13 @@ tags: "Notes"
 			$$E(A)=\sum_{i=1}^{v}\frac{p_i+n_i}{p+n}I(p_i,n_i)$$
 			* le gain d'information par rapport au branchement sur A est donc:
 			 $$Gain(A) = I(p,n) - E(A)$$
-			 * L'attribut selectionné 
-		* 
+			 * L'attribut selectionné est celui don't le gain d'information est les plus important
+		* **Algorithme C4.5**
+			* 
+* Interpretation de l'arbre 
+	* l'arbre de decision donne des informations sur la pertinance sdes attributes vis a vis de la classe
+* Validation d'un arbre de decision
+* 
 
 ---
 [[Arbres de decision#Notes|up]]
