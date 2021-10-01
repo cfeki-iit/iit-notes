@@ -16,8 +16,16 @@ public class ListEtudiant {
         }
     }
 
-    public void modifierAdresse(Etudiant etud, String adr){
-        etud.setAdresse(adr);
+    public void modifierAdresse(int idEtudiant, String adr){
+        int i=0;
+        while (listEtudiant[i].getID()!= idEtudiant && i<listEtudiant.length){
+            i++;
+        }
+        if (i<listEtudiant.length){
+            listEtudiant[i].setAdresse(adr);
+        }
+        else
+            System.out.println("Etudiant introuvable");
     }
 
     

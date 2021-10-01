@@ -7,9 +7,9 @@ import java.util.*;
 public class testMatiere {
     public static void main (String[] args){
         Matiere mat = new Matiere(2);
-        Etudiant ali = new Etudiant("ali","sfax");
+        Etudiant ali = new Etudiant(1,"ali","sfax");
         mat.ajouterEtudiant(ali, 20);
-        mat.ajouterEtudiant(new Etudiant("salma","tozeur"), 15);
+        mat.ajouterEtudiant(new Etudiant(2,"salma","tozeur"), 15);
         mat.afficherListeNotes();
         System.out.println("\nla moyenne des notes est : "+ mat.moyenne());
     }

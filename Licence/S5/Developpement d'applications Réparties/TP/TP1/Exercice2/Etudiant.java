@@ -3,8 +3,10 @@ package Exercice2;
 public class Etudiant {
     private String nom;
     private String adresse;
+    private int id;
 
-    public Etudiant(String nom, String adresse){
+    public Etudiant(int id,String nom, String adresse){
+        this.id=id;
         this.nom=nom;
         this.adresse=adresse;
     }
@@ -25,5 +27,14 @@ public class Etudiant {
         this.adresse = adresse;
     }
 
+    public int getID() {
+        return id;
+    }
+
+    public void setID(int id) {
+        this.id = id;
+    }
+
+    
     
 }
