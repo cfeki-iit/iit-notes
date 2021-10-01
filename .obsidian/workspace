@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "eb874a00ec5eb654",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -126,6 +137,7 @@
   "active": "0fc9c249f647ea99",
   "lastOpenFiles": [
     "Licence/S5/Developpement d'applications Réparties/Langage Java.md",
+    "conflict-files-obsidian-git.md",
     "Licence/S5/Developpement d'applications Réparties/Developpement d'applications Réparties.md",
     "Licence/S5/Sécurité Informatique/Sécurité Informatique.md",
     "Licence/S5/Sécurité Informatique/Notions generales et Metiers de la Sécurité Informatique.md",
@@ -133,7 +145,6 @@
     "Licence/S5/Animation 2D/Animation 2D.md",
     "Licence/S5/Machine Learning/Machine Learning.md",
     "Licence/S5/Machine Learning/Arbres de decision.md",
-    "Licence/S5/Entreprenariat/Entreprenariat.md",
-    "Licence/S5/Entreprenariat/Sensibilisation à l'entreprenariat et la culture entreprenariale.md"
+    "Licence/S5/Entreprenariat/Entreprenariat.md"
   ]
 }

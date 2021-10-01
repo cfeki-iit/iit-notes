@@ -21,9 +21,14 @@ tags: "Notes"
 			* recommendations des editeurs de serveurs 
 			* modularité et maintenance de machines individuelles en cas de panne
 	* Architecture en Rack 
+		* Avantage :
+			* Virtualisation 
+			* Haute Disponibilité 
+			* FT
 
 ## Travail à la maison 
-Regarder des videos youtube sur la virtualisation et les datacenters et leur operations 
+- [x]  Regarder des videos youtube sur la virtualisation et les datacenters et leur operations
+
 
 ---
 [[Introduction à la Virtualisation#Notes|up]]
