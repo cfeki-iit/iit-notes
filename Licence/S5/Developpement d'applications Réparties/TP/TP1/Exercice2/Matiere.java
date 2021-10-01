@@ -13,7 +13,16 @@ public class Matiere {
         notes[list.getNbrEtud()]=note;
         list.ajouterEtudiant(etud);
     }
-
+    public float moyenne(){
+        float moy=0;
+        int i = 0;
+        while (i<notes.length){
+            System.out.println(notes[i]+" "+notes.length);
+            moy+=notes[i]/notes.length;
+            i++;
+        }
+        return moy;
+    }
     public void afficherListeNotes(){
         int nbretud = list.getNbrEtud();
         Etudiant[] etuds=list.getListEtudiant();
