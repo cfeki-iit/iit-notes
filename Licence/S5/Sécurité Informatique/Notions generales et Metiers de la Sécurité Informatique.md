@@ -38,11 +38,31 @@ tags: "Notes"
 		* objet ayant de la valeur 
 	* Contre-mesure
 		* Objet ou process qui prévient une menace sur un atout 
-		* actions mises en oeuvre pour prévenir la menace, une fois qu'elle est mesuri
+		* actions mises en oeuvre pour prévenir la menace, une fois qu'elle est mesurée => passage necessaire par une prise de conscience
+		* procedures ou techniques pour résoudre une vulnerabilité 
+		* ou contrer une attaque specifique 
+		* Compromis efficacité/Cout des contremesures 
+		* 
 	* Vulnérabilité 
 		* Faille qui offre l'opportunité d'atteindre un atout
 		* une architecture défaillante
-	* => Le risque encouru par un systeme st lié de manieere etroite a la menace et la vulnerabilité qui le touchent mais egalement aux contre mesures mises en oeuvre
+		* faille de sécurité du systeme causée par des faiblesses dans la conception la mise en oeuvre ou l'utilisatio d'un composant materiel ou logiciel du systeme mais il s'agit generalement de lexploitation de buss logiciels 
+		* ces dysfonctionnements logiciels sont en general corrigés a travers les correctifs fourni par les editeurs de logiciels 
+		* l'exploitation d'une faille d'un logiciel peut etre publiquement document&e et utilisable sous la forme dd'un petit logiciel appelé exploit 
+		* 
+	* Impact : 
+		* perte ou dommage a un atout 
+	* Scénario 
+		* Exploitation d'une vulnerabilité par une menace pour causer un impact 
+	* Attaques 
+		* n'importe quelle action qui pcompromet a securité de l'infromation 
+		* appelée aussi un exploit 
+		* un exploit informatique est un morceau de code ou de logiciel qui identifie et utilise les faiblesses au niveau de la securité des sytemes et réseaux pour le benfices de cybercriminels 
+		* generalement associés avec d'autres logiciels et dissimiés dans des kits 
+		* pour ce proteger contre les kits d'exploit et les maliciels qu'ils envoient, il faut mettre régulièrement tous les leogiciels de l'ordinateur a jour 
+		* 
+	* => Le risque encouru par un systeme st lié de manieere etroite a la menace et la vulnerabilité qui le touchent mais egalement aux contre mesures mises en oeuvre 
+* La menace en sécurité informatique
 
 ---
 [[Notions generales et Metiers de la Sécurité Informatique#Notes|up]]
