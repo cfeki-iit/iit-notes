@@ -35,7 +35,7 @@ tags: "Notes"
 			* Objectif : Selectionner l'attribut avec le plus grand gain d'information 
 			* Soient P et N deux classes et S un ensemble d'instances avec p elements de P et n elements de N
 			* L'information necessaire pour determiner si une instance prise au hasard fait partie de P ou N est : 
-			 $$I(p,n)=\frac{p}{p+n}log_2\frac{p}{p+n}-\frac{n}{p+n}log_2\frac{n}{p+n}$$
+			 $$I(p,n)=-\frac{p}{p+n}log_2\frac{p}{p+n}-\frac{n}{p+n}log_2\frac{n}{p+n}$$
 			* L'entropie ou l'infomation necessaire pour classifier les instances dans les sous arbres Si est: 
 			$$E(A)=\sum_{i=1}^{v}\frac{p_i+n_i}{p+n}I(p_i,n_i)$$
 			* le gain d'information par rapport au branchement sur A est donc:
