@@ -141,7 +141,12 @@ tags: "Notes"
 			* puisera sa connnaissance dans la documentation technique et la littérature ouverte 
 			* il se procurera les logiciels necessaires à l'accomplissement de ses mefaits sur des serveurs publics ou les développera lui meme 
 		* Espionnage et terrorisme 
-			* fiat d'organisment gouvernementaux et para gouvernementaux structurés et organisés pour la recherche du renseignement et disposant de moyens financiers et techniques très importants leur permettant d'envisager tous les types d'attaque su
+			* fiat d'organisment gouvernementaux et para gouvernementaux structurés et organisés pour la recherche du renseignement et disposant de moyens financiers et techniques très importants leur permettant d'envisager tous les types d'attaque sur un système
+			* dans le cas d'espionnage industriel, les concurrents utilisent des moyens qui peuvent etres proches de ceux d'un etat.
+	* Quels sont leur compétences 
+		* competence techniques faible ou nulle 
+			* pour dénaturer une information , observer foullier physiquement, voler abimer un equipement, perturber un SI entrer des données fausses .... 
+		* compétences techniques moyenne pour balayser un SI et chercher des informations, fouliiler logiquement. 
 
 
 
