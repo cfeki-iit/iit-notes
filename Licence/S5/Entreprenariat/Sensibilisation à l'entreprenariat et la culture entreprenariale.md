@@ -48,6 +48,7 @@ tags: "Notes"
 		* signe dchargé d'une information d'ordre culturel (style vestimentaire ), signe distinctif 
 	* Héros 
 		* salariés les plus performants / employés du mois etc 
+* Culture entreprenariale
 	* 
 
 
