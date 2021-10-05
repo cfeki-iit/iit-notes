@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "1b6afc2a2602039e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -54,7 +65,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Licence/S5/Developpement Mobile/Developpement Mobile.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Licence/S5/Developpement Mobile/Developpement Mobile.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,15 +134,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0fc9c249f647ea99",
+  "active": "1b6afc2a2602039e",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Licence/S5/Developpement Mobile/Developpement Mobile.md",
     "Licence/S5/Developpement Mobile/Android Studio - Flutter Project.md",
     "Licence/S5/Developpement d'applications Réparties/Developpement d'applications Réparties.md",
     "Licence/S5/Architecture Orientée Services/Architecture Orientée Services.md",
     "Licence/S5/Architecture Orientée Services/Technologies XML.md",
     "Licence/S5/Developpement d'applications Réparties/Langage Java.md",
-    "conflict-files-obsidian-git.md",
     "Licence/S5/Sécurité Informatique/Sécurité Informatique.md",
     "Licence/S5/Sécurité Informatique/Notions generales et Metiers de la Sécurité Informatique.md",
     "Licence/S4/Securité et Droits informatiques/Notes/202102251457 LN-Securité Informatique 1.md"
