@@ -5,7 +5,7 @@ tags: Course
 # Frameworks et Technologies Big Data 
 ## Metadata
 * Semestre : [[S5]]
-* Professeur: 
+* Professeur: [[@Mouna Torj]]
 	* E-mail : 
 ## Overview
  
