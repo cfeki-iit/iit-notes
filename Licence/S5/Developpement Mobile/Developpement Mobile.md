@@ -6,7 +6,7 @@ tags: Course
 ## Metadata 
 * Semestre : [[S5]]
 * Professeur : [[@Elyes Said]]
-	* E-mail : 
+	* E-mail : Elyes.Said@viacesi.fr
 ## Overview
  
 ```ccard
@@ -14,5 +14,6 @@ type: folder_brief_live
 ```
  
 ## Notes de cours
+* [[Android Studio - Flutter Project]]
 ## TP
 ## Ressources 
