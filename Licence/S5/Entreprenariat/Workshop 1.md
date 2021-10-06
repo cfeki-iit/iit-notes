@@ -44,6 +44,8 @@ tags: "Notes"
 			*  **Porte Parole**
 				*  représentant de l'unité dont vous avez la responsabilité 
 				*  capacité a présenter et defendre des idées devant des personnes high-stakes
+				*  Maintenir un regard en W (vertical ou horizontal pour garder l'audience engagée)
+				*  si vous avez du trac regarder entre les yeus au lieu de directement dans les yeux de votre publique 
 		*  Roles Decisionnels 
 			* **Entrepreneur**
 				* identifier et developper de nouveau gisements de créeation ed valeur 
