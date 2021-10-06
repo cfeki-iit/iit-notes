@@ -19,12 +19,12 @@ type: folder_brief_live
  
 ## Notes de cours
 * [[Introduction à la Virtualisation ]]
-	* [[Virtualisation des Serveurs]]
-	* [[Virtualisation des réseaux]]
-	* [[Virtualisation de stockage]]
-	* [[Virtualisation des postes de travail]]
-	* [[Virtualisation des Applications]]
-	* [[Les Conteneurs]]
-	* [[Virtualisation et Cloud Computing]]
+* [[Virtualisation des Serveurs]]
+* [[Virtualisation des réseaux]]
+* [[Virtualisation de stockage]]
+* [[Virtualisation des postes de travail]]
+* [[Virtualisation des Applications]]
+* [[Les Conteneurs]]
+* [[Virtualisation et Cloud Computing]]
 ## TP
 ## Ressources 
