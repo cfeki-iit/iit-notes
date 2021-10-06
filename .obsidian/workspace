@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Licence/S5/Entreprenariat/Workshop 1.md",
+            "file": "Licence/S5/Frameworks et Technologies Big Data/Big Data.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "vulnerabilité",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -54,7 +54,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Licence/S5/Entreprenariat/Workshop 1.md"
+                "file": "Licence/S5/Frameworks et Technologies Big Data/Big Data.md"
               }
             }
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Licence/S5/Entreprenariat/Workshop 1.md",
+                "file": "Licence/S5/Frameworks et Technologies Big Data/Big Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
   },
   "active": "0fc9c249f647ea99",
   "lastOpenFiles": [
-    "Licence/S5/Entreprenariat/Workshop 1.md",
-    "Licence/S5/Entreprenariat/Entreprenariat.md",
-    "Licence/S5/Architecture Orientée Services/Architecture Orientée Services.md",
-    "Licence/S5/Entreprenariat/Sensibilisation à l'entreprenariat et la culture entreprenariale.md",
+    "Licence/S5/Frameworks et Technologies Big Data/Big Data.md",
+    "Licence/S5/Frameworks et Technologies Big Data/Frameworks et Technologies Big Data.md",
+    "Licence/S5/Developpement Mobile/Developpement Mobile.md",
     "Licence/S5/S5.md",
-    "Licence/S5/Architecture Orientée Services/Technologies XML.md",
-    "Licence/S5/Sécurité Informatique/Sécurité Informatique.md",
-    "Licence/S5/Cloud et Virtualisation/Cloud et Virtualisation.md",
-    "Licence/S5/Cloud et Virtualisation/Introduction à la Virtualisation.md",
-    "Licence/S5/Machine Learning/Arbres de decision.md"
+    "Licence/S4/S4.md",
+    "conflict-files-obsidian-git.md",
+    "Licence/S5/Developpement Mobile/Android Studio - Flutter Project.md",
+    "Licence/S5/Developpement d'applications Réparties/Developpement d'applications Réparties.md",
+    "Licence/S5/Architecture Orientée Services/Architecture Orientée Services.md",
+    "Licence/S5/Architecture Orientée Services/Technologies XML.md"
   ]
 }
