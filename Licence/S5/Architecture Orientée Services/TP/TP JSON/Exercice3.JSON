@@ -1,0 +1,30 @@
+{
+    "identifiant courrier": "CBD0D45E",
+    "lettre":
+            {
+                "adresse Expediteur":
+                    {
+                        "Civilité":"Mr",
+                        "nom":"",
+                        "numero":"",
+                        "appartement":"",
+                        "rue":"",
+                        "codePostal":"",
+                        "ville":""
+                    },
+                "adresse Destination":
+                    {
+                        "Civilité":"Mr",
+                        "nom":"",
+                        "numero":"",
+                        "appartement":"",
+                        "rue":"",
+                        "codePostal":"",
+                        "ville":"",
+                        "pays":""
+                    },
+                "ville": "",
+                "date": {},
+                "corps":[]
+            }
+}
