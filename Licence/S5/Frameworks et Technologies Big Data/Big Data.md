@@ -27,7 +27,17 @@ tags: "Notes"
 	* Googlese se retrouve dans l'impossiblité de gerer tant de données de cette maniere => invention du GFS (Google File System )
 		* creation de clusters constitués par  des machines standards
 		* Basé sur l'architecture Master-Slave(chunk servers)
-		* probleme : 
+			* les slave ( chunk servers) servent a stocker des chunks de données ( fichiers volumineux ségmentés )
+			* Le master : 
+				* contacté par les clients 
+				* guide les clients sur les serveurs a contacter pour la lecutre et l'ecriture des données (chunk)
+				* contient le mapping des données et leur locations dans les chunk servers (meta-données)
+				* le master est un SPOF : single point of failure
+					* Si les chunk servers tombent en panne, le cluster continue de fonctionner normalemenet car generalement les CS existent en 3 duplicatas 
+					* les masters par contre sont singulaires et si ils tombent en panne tous le cluster n'est plus utilisables 
+					* => Shadow masters ( duplicatas du master )
+		* probleme : les machines standards sont moins robustes que les serveurs et en plus on ne peut pas effectuer des maintenances a chaud 
+	* MAP Reduce
 
 ---
 [[Big Data#Notes|up]]
