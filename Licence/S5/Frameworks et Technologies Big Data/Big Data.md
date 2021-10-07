@@ -11,15 +11,43 @@ tags: "Notes"
 	* ce n'est pas QUE des logiciels
 	* Le but c'est de créer a partir des données générés dans les réseaux sociaux et grace à l'iot de la valeur ( prediction de maladies, detection de fraudes, previsions meteo, medecine personnalisée etc)
 	* données non structurées + structurées 
+		* 80% of data is un-structured 
+		* Non Structurées 
+			* images 
+			* videos 
+			* audio
+		* Structurées
+			* bases de données relationnelles 
+			* fichiers Excels 
+			* Ticket de Caisse 
+		* Semi - Structurés  
+			* Tweet 
+				* expediteur 
+				* date d'envoie 
+				* mais le corps n'est pas structuré
+			* Mail 
 	* données massives 
-	* données incertaines 
-	* flux de données 
+		* 
+	* données incertaines et erronnées
+		* 80% of the world's data is uncertain in 2015 (IBM)
+		* causes : 
+			* Sensor inaccuracy
+			* false and noisy data in social media 
+				* Fake news/profiles etc
+	* flux de données
+		* Streaming ( données qui arrivent de maniere continue en direct) 
+		* le probleme est donc de traiter les données en temps reel sans les stocker 
 	* données distribuées 
+		* données massives impossibles a stocker sur une seule machine 
+		* Cout du transfert vers le noeud central est trop cher
+		* la distribution des données implique le traitement parallèle 
 	* machine learning 
-	* traitemeents parallèles 
+	* prediction prevision
+	* fouille de données ( data mining )
 	* visualisation de données 
-	* fouille de données 
-	* prediction et prevision 
+		* un fichier qui continet des milliers de lignes est tout simplement illisible
+	* traitemeents parallèles
+		* conséquence de la distribution 
 * Historique : 
 	* les moteurs de recherche utilisaient, au début, l'indexation pour retrouver les informations dans les pages 
 	* à un moment l'utilisation d'internet explose en nombre et en quanitté : 
