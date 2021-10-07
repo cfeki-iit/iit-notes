@@ -36,18 +36,31 @@ tags: "Notes"
 				* Fake news/profiles etc
 	* flux de données
 		* Streaming ( données qui arrivent de maniere continue en direct) 
-		* le probleme est donc de traiter les données en temps reel sans les stocker 
+		* le probleme est de traiter les données en temps reel sans les stocker
+		* 30M of global data will be real time by 2025, when 75% of total population would be connected  
 	* données distribuées 
 		* données massives impossibles a stocker sur une seule machine 
 		* Cout du transfert vers le noeud central est trop cher
 		* la distribution des données implique le traitement parallèle 
+		* la distribution des données en BigD se fait grace a un systeme de fichier distribués (DFS)
 	* machine learning 
 	* prediction prevision
 	* fouille de données ( data mining )
 	* visualisation de données 
 		* un fichier qui continet des milliers de lignes est tout simplement illisible
+		* => représentation graphique pour analiser et comprendre les données
 	* traitemeents parallèles
 		* conséquence de la distribution 
+* [[Les 5 Dimensions du Big Data]]
+* [[La distribution des données en Big Data]]
+* Scalabilité des systemes Big D
+	* Scalabilité horizontale (scale-out)
+		* ajouter de nouvelles machine à celles existantes qui continuent a fonctionner
+	* Scalabilité verticale ( obsolete / legacy ) (scale-up)
+		* remplacer un ancien serveur par un nouveau serveur plus puissant 
+		* temps et cout de transfert des données entre l'ancien et le nouveau serveur 
+		* l'ancien serveur ne sert plus a rien
+* [[Domaines d'application de Big Data]]
 * Historique : 
 	* les moteurs de recherche utilisaient, au début, l'indexation pour retrouver les informations dans les pages 
 	* à un moment l'utilisation d'internet explose en nombre et en quanitté : 
