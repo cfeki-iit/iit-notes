@@ -1,46 +1,50 @@
 {
-    "Stock du magasin":{
-        "rayons":[
-            {
-                "nom":"fruitset legumes",
-                "produits":[
+    "Stock du magasin":
+        {
+            "rayons":
+                [
                     {
-                        "ref":"pomme",
-                        "prix":"4 d",
-                        "code":"1543",
-                        "en stock":"true"
+                        "nom":"fruitset legumes",
+                        "produits":
+                            [
+                                {
+                                    "ref":"pomme",
+                                    "prix":"4 d",
+                                    "code":"1543",
+                                    "en stock":"true"
+                                },
+                                {
+                                    "ref":"banane",
+                                    "prix":"6 d",
+                                    "code":"6543",
+                                    "en stock":"false"
+                                },
+                                {
+                                    "ref":"carotte",
+                                    "prix":"1 d",
+                                    "code":"2132",
+                                    "en stock":"true"
+                                }
+                            ]
                     },
                     {
-                        "ref":"banane",
-                        "prix":"6 d",
-                        "code":"6543",
-                        "en stock":"false"
-                    },
-                    {
-                        "ref":"carotte",
-                        "prix":"1 d",
-                        "code":"2132",
-                        "en stock":"true"
+                        "nom":"viande",
+                        "produits":
+                            [
+                                {
+                                    "ref":"poulet",
+                                    "prix":"7 d",
+                                    "code":"3423",
+                                    "en stock":"false"
+                                },
+                                {
+                                    "ref":"boeuf",
+                                    "prix":"25 d",
+                                    "code":"1456",
+                                    "en stock":"true"
+                                }
+                            ]
                     }
                 ]
-            },
-            {
-                "nom":"viande",
-                "produits":[
-                    {
-                        "ref":"poulet",
-                        "prix":"7 d",
-                        "code":"3423",
-                        "en stock":"false"
-                    },
-                    {
-                        "ref":"boeuf",
-                        "prix":"25 d",
-                        "code":"1456",
-                        "en stock":"true"
-                    }
-                ]
-            }
-        ]
-    }
+        }
 }
