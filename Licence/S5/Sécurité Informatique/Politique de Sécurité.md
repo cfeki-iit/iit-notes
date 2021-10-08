@@ -51,8 +51,58 @@ tags: "Notes"
 		* MARION
 			* Methodologie d'analyse de risques informatiques, orientée par niveau  
 		* MEHARI
-			* methodo
+			* Methodologie Harmonisée d'analyse de risques 
 		* EBIOS
+			* Expression des Besoins et Identification des Objectifs de Sécurité
+	* Etapes de réalisation 
+		* Etude de contexte 
+		* Redaction de la politique 
+		* Validation , approbation et communication 
+		* evaluation et revision 
+	* Mise en oeuvre d'une politique de sécurité 
+		* choix des mecanismes les plus simples possibles permettant de prtéger les ressources, de maniere la plus efficace avec un cout acceptable
+		* Systeme d'authentification ( biometrie, serveur d'authentification )
+		* Chiffrement ( PKI, IPSEC, mecanismes integrés a des protocoles de communication)
+		* pare feux (firewall)
+		* systeme anti-virus
+		* outil de detection de failles de sécurité
+		* systeme de détection d'intrusions 
+		* systeme d'exploitation securisé
+	* Validation d'une politique de securité
+		* Audit de securité par un tiers de confiance qui 
+			* valide les moyens de protection mis en oeuvre par rapport à la politique de securité 
+			* verifie que 
+				* chaque regle de securité est correctement appliquée
+				* l'ensemble des dispositions forme un tout cohérent et sûr 
+		*  Test d'une politique de securité 
+			*  le test se fait avec l'accord de la hierarchie 
+				*  le propriétaire du systeme doit donner une autorisation 
+				*  degats possibles sur le systeme
+			*  Permet de sensibiliser le personnel 
+			*  ne permet pas de garantir la securité du système 
+			*  Test D'intrusion 
+				*  eprouver les moyen de protection d'un SI en essayant de s'introduire dans le systeme en situation réelle 
+				*  Black Box 
+					*  s'introduire dans le systeme sans aucune conaissance préalable de celui-ci ( situation réelle )
+				*  White Box 
+					*  S'introduire dans le systeme en ayant connaissance l'ensemble du systeme (éprouvere au maximum le systeme)
+	*  que faire après des incidents ? => Plan de continuité de l'activité 
+		*  definir les responsabilités (à l'avance)
+		*  constitution de preuves sur l'attaque ( en cas d'enquete judiciaire)
+		*  datation de l'intrusion ( degré de compormission de la machine)
+		*  confinement de la compromission (eviter la propagation)
+		*  sauvegarde(comparaison des données du systeme avec la sauvegarde)
+		*  mise en place d'un plan de repli ( continuité de service)
+		*  politique de Sauvgarde
+			*  definition des parties du SI a sauvegarder 
+			*  disponibilité des sauvegardes 
+			*  politique des supports de sauvegarde
+				*  en local ? distant ? 
+				*  armoires anti-feu pour garder les disques de sauvegarde
+				*  
+			*  organisation de sauvegardes
+			*  replication sur un site distant 
+			*  outil de simulation 
 * Objectif de la politique de securité : 
 	* Apporter a la securité de l'information une orientation et un soutien de la part de la direction conformément aux exigences metier et aux lois et reglements en vigueur 
 * Contenu du document 
