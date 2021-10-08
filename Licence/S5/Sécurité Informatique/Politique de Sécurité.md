@@ -99,10 +99,13 @@ tags: "Notes"
 			*  politique des supports de sauvegarde
 				*  en local ? distant ? 
 				*  armoires anti-feu pour garder les disques de sauvegarde
-				*  
 			*  organisation de sauvegardes
 			*  replication sur un site distant 
 			*  outil de simulation 
+*  Formalisation de la politique de securité 
+	*  Reglement de rsécurité a pour objectif de definir les actions que les agents ont 
+	*  Exemple de regles : 
+		*  R1 tout agent jouant le role d'utilisateur etst autorisé a lire
 * Objectif de la politique de securité : 
 	* Apporter a la securité de l'information une orientation et un soutien de la part de la direction conformément aux exigences metier et aux lois et reglements en vigueur 
 * Contenu du document 
