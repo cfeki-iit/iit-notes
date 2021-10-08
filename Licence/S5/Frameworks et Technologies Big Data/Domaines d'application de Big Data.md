@@ -20,7 +20,14 @@ tags: "Notes"
 	* Analyse de Sentiments 
 		* Detection de satisfaction ou de mécontentement des clients envers un produit en analysant leurs posts sur les réseaux sociaux 
 * Analyse de tweets en temps réel 
-	* connaitre le degré de satisfaction 
+	* connaitre le degré de satisfaction sur un evenement / produit 
+	* prédictions politiques 
+	* analyse de réputation et image de marque sur les RS 
+* Politique 
+	* L'analyse de Big Data a joué un role important dans la campagne de reelction de bracka obama notament pour l'analyse des opinions politiques de la population 
+		* Target regions where barack obama was no as popular with the biggest campaign efforts inorder to convert their opinions 
+	* 2014 : SIGMA conseil a utilisé le big Data pour donner l'estimation du résultat de vote préliminaire en tunisie
+* 
 
 
 
