@@ -15,5 +15,6 @@ type: folder_brief_live
  
 ## Notes de cours
 * [[Android Studio - Flutter Project]]
+* [[Langage Dart]]
 ## TP
 ## Ressources 
