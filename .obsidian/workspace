@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Licence/S5/Cloud et Virtualisation/Virtualisation des Serveurs.md",
+            "file": "Licence/S5/Preparation à l'environnement Professionnel/Preparation à l'environnement Professionnel.md",
             "mode": "source"
           }
         }
@@ -54,7 +54,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Licence/S5/Cloud et Virtualisation/Virtualisation des Serveurs.md"
+                "file": "Licence/S5/Preparation à l'environnement Professionnel/Preparation à l'environnement Professionnel.md"
               }
             }
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Licence/S5/Cloud et Virtualisation/Virtualisation des Serveurs.md",
+                "file": "Licence/S5/Preparation à l'environnement Professionnel/Preparation à l'environnement Professionnel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,7 @@
   },
   "active": "0fc9c249f647ea99",
   "lastOpenFiles": [
+    "Licence/S5/Preparation à l'environnement Professionnel/Preparation à l'environnement Professionnel.md",
     "Licence/S5/Cloud et Virtualisation/Virtualisation des Serveurs.md",
     "Licence/S5/Cloud et Virtualisation/Cloud et Virtualisation.md",
     "Licence/S5/Entreprenariat/Entreprenariat.md",
@@ -132,7 +133,6 @@
     "Licence/S5/Entreprenariat/Sensibilisation à l'entreprenariat et la culture entreprenariale.md",
     "Licence/S5/S5.md",
     "Licence/S5/Architecture Orientée Services/Technologies XML.md",
-    "Licence/S5/Sécurité Informatique/Sécurité Informatique.md",
-    "Licence/S5/Cloud et Virtualisation/Introduction à la Virtualisation.md"
+    "Licence/S5/Sécurité Informatique/Sécurité Informatique.md"
   ]
 }
