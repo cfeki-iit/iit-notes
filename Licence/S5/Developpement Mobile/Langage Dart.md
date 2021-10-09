@@ -34,9 +34,7 @@ tags: "Notes"
 * Syntax : 
 	```Dart
 		void main(){
-			print('hello, world!');
-			var result = 
-		}
+		
 	```
 
 
