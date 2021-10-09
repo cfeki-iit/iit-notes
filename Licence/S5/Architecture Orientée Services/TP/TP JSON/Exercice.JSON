@@ -1,0 +1,46 @@
+{
+    "etudiants":[
+        {
+            "id":       "001",
+            "prenom":   "ali",
+            "nom":      "Siala",
+            "age":      23,
+            "adresse":  {
+                            "ville":    "Sfax",
+                            "rue":      "Aéroport",
+                            "codepostal":3018
+                        },
+            "telephones":[
+                            {
+                                "type":     "fixe",
+                                "numero":   "(216)74 000 111"
+                            },
+                            {
+                                "type":     "portable",
+                                "numero":   "(216) 21 111 000"
+                            }
+                        ]
+        },
+        {
+            "id":       "002",
+            "prenom":   "Ameni",
+            "nom":      "Fehri",
+            "age":      22,
+            "adresse":  {
+                            "ville":    "Tunis",
+                            "rue":      "Mohamed V",
+                            "codepostal":2089
+                        },
+            "telephones":[
+                            {
+                                "type":     "fixe",
+                                "numero":   "(216)71 111 000"
+                            },
+                            {
+                                "type":     "portable",
+                                "numero":   "(216) 21 000 "
+                            }
+                        ]
+        }
+    ]
+}

@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "164b77cafff5430a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -54,7 +65,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Licence/S5/Preparation à l'environnement Professionnel/Preparation à l'environnement Professionnel.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -92,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Licence/S5/Preparation à l'environnement Professionnel/Preparation à l'environnement Professionnel.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,8 +133,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0fc9c249f647ea99",
+  "active": "164b77cafff5430a",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Licence/S5/Preparation à l'environnement Professionnel/Preparation à l'environnement Professionnel.md",
     "Licence/S5/Cloud et Virtualisation/Virtualisation des Serveurs.md",
     "Licence/S5/Cloud et Virtualisation/Cloud et Virtualisation.md",
@@ -132,7 +144,6 @@
     "Licence/S5/Architecture Orientée Services/Architecture Orientée Services.md",
     "Licence/S5/Entreprenariat/Sensibilisation à l'entreprenariat et la culture entreprenariale.md",
     "Licence/S5/S5.md",
-    "Licence/S5/Architecture Orientée Services/Technologies XML.md",
-    "Licence/S5/Sécurité Informatique/Sécurité Informatique.md"
+    "Licence/S5/Architecture Orientée Services/Technologies XML.md"
   ]
 }

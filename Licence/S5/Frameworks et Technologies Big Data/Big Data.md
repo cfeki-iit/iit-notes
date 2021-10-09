@@ -11,15 +11,56 @@ tags: "Notes"
 	* ce n'est pas QUE des logiciels
 	* Le but c'est de créer a partir des données générés dans les réseaux sociaux et grace à l'iot de la valeur ( prediction de maladies, detection de fraudes, previsions meteo, medecine personnalisée etc)
 	* données non structurées + structurées 
+		* 80% of data is un-structured 
+		* Non Structurées 
+			* images 
+			* videos 
+			* audio
+		* Structurées
+			* bases de données relationnelles 
+			* fichiers Excels 
+			* Ticket de Caisse 
+		* Semi - Structurés  
+			* Tweet 
+				* expediteur 
+				* date d'envoie 
+				* mais le corps n'est pas structuré
+			* Mail 
 	* données massives 
-	* données incertaines 
-	* flux de données 
+		* 
+	* données incertaines et erronnées
+		* 80% of the world's data is uncertain in 2015 (IBM)
+		* causes : 
+			* Sensor inaccuracy
+			* false and noisy data in social media 
+				* Fake news/profiles etc
+	* flux de données
+		* Streaming ( données qui arrivent de maniere continue en direct) 
+		* le probleme est de traiter les données en temps reel sans les stocker
+		* 30M of global data will be real time by 2025, when 75% of total population would be connected  
 	* données distribuées 
+		* données massives impossibles a stocker sur une seule machine 
+		* Cout du transfert vers le noeud central est trop cher
+		* la distribution des données implique le traitement parallèle 
+		* la distribution des données en BigD se fait grace a un systeme de fichier distribués (DFS)
 	* machine learning 
-	* traitemeents parallèles 
+	* prediction prevision
+	* fouille de données ( data mining )
 	* visualisation de données 
-	* fouille de données 
-	* prediction et prevision 
+		* un fichier qui continet des milliers de lignes est tout simplement illisible
+		* => représentation graphique pour analiser et comprendre les données
+	* traitemeents parallèles
+		* conséquence de la distribution 
+* [[Les 5 Dimensions du Big Data]]
+* [[La distribution des données en Big Data]]
+* Scalabilité des systemes Big D
+	* Scalabilité horizontale (scale-out)
+		* ajouter de nouvelles machine à celles existantes qui continuent a fonctionner
+	* Scalabilité verticale ( obsolete / legacy ) (scale-up)
+		* remplacer un ancien serveur par un nouveau serveur plus puissant 
+		* temps et cout de transfert des données entre l'ancien et le nouveau serveur 
+		* l'ancien serveur ne sert plus a rien
+* [[Domaines d'application de Big Data]]
 * Historique : 
 	* les moteurs de recherche utilisaient, au début, l'indexation pour retrouver les informations dans les pages 
 	* à un moment l'utilisation d'internet explose en nombre et en quanitté : 
@@ -27,7 +68,17 @@ tags: "Notes"
 	* Googlese se retrouve dans l'impossiblité de gerer tant de données de cette maniere => invention du GFS (Google File System )
 		* creation de clusters constitués par  des machines standards
 		* Basé sur l'architecture Master-Slave(chunk servers)
-		* probleme : 
+			* les slave ( chunk servers) servent a stocker des chunks de données ( fichiers volumineux ségmentés )
+			* Le master : 
+				* contacté par les clients 
+				* guide les clients sur les serveurs a contacter pour la lecutre et l'ecriture des données (chunk)
+				* contient le mapping des données et leur locations dans les chunk servers (meta-données)
+				* le master est un SPOF : single point of failure
+					* Si les chunk servers tombent en panne, le cluster continue de fonctionner normalemenet car generalement les CS existent en 3 duplicatas 
+					* les masters par contre sont singulaires et si ils tombent en panne tous le cluster n'est plus utilisables 
+					* => Shadow masters ( duplicatas du master )
+		* probleme : les machines standards sont moins robustes que les serveurs et en plus on ne peut pas effectuer des maintenances a chaud 
+	* MAP Reduce
 
 ---
 [[Big Data#Notes|up]]

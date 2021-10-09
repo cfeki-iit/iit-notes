@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Courrier id="CBD0">
+    <Lettres>
+        <Lettre>
+            <Adresses>
+                <Adresse type="expediteur">
+                    <civilité> Mr </civilité>
+                    <nom> Mohsen Zouari </nom>
+                    <numero>(216) 53245983</numero>
+                    <appartement>6</appartement>
+                    <rue>Mahdoa</rue>
+                    <CodePostal>3057</CodePostal>
+                    <ville>Sfax</ville>
+                </Adresse>
+                <Adresse type="Destinataire">
+                    <civilité> Mlle </civilité>
+                    <nom> Mouna Zouari </nom>
+                    <numero>(33) 7845129865</numero>
+                    <appartement>45</appartement>
+                    <rue>Jean Jaures</rue>
+                    <CodePostal>45896</CodePostal>
+                    <ville>Toulouse</ville>
+                    <Pays>France</Pays>
+                </Adresse>
+            </Adresses>>
+            <ville>Mugadishu</ville>
+            <date>
+                <jour>7</jour>
+                <mois>Octobre</mois>
+                <année>2021</année>
+            </date>
+            <corps>
+                <paragraphe>paragraphe1</paragraphe>
+                <paragraphe>paragraphe2</paragraphe>
+                <paragraphe>paragraphe3</paragraphe>
+            </corps>
+        </Lettre>
+    </Lettres>
+</courrier>
+            
+            

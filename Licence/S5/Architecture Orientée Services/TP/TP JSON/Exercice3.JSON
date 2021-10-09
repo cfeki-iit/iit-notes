@@ -1,0 +1,39 @@
+{
+    "identifiant courrier": "CBD0",
+    "lettres":[
+            {
+                "adresse Expediteur":
+                    {
+                        "Civilité":"Mr",
+                        "nom":"Mohsen Zouari",
+                        "numero":"(216) 53245983",
+                        "appartement":"6",
+                        "rue":"Mahdoa",
+                        "codePostal":"3057",
+                        "ville":"Sfax"
+                    },
+                "adresse Destination":
+                    {
+                        "Civilité":"Mlle",
+                        "nom":"Mouna Zouari",
+                        "numero":"(216) 7845129865",
+                        "appartement":"45",
+                        "rue":"Jean Jaures",
+                        "codePostal":"45896",
+                        "ville":"Toulouse",
+                        "pays":"France"
+                    },
+                "ville": "Mugadishu",
+                "date": {
+                    "jour":7,
+                    "mois":"Octobre",
+                    "année":2021
+                },
+                "corps":[
+                    "paragraphe1",
+                    "paragraphe2",
+                    "paragraphe3"
+                ]
+            }
+        ]
+}
