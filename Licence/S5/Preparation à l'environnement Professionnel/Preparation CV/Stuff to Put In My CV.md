@@ -7,6 +7,7 @@ Course : [[Preparation à l'environnement Professionnel]]
 ## Informations Personnelles
 ## Formation Académique
 ## Experience Professionnelle
-## Experiences 
+## Projets Personnels 
 ## Compétences
 ## Accomplissements 
+## Interêts
