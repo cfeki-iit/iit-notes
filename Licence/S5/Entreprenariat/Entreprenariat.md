@@ -30,5 +30,6 @@ type: folder_brief_live
 ## Notes de cours
 * [[Sensibilisation à l'entreprenariat et la culture entreprenariale]]
 * [[Workshop 1 ]]
+* [[Formes, Valeurs, et Types d'entrepreneurs]]
 ## TP
 ## Ressources 
