@@ -4,5 +4,6 @@
   "promptDelete": false,
   "newFileLocation": "current",
   "attachmentFolderPath": "Attachements",
-  "fileSortOrder": "byCreatedTimeReverse"
+  "fileSortOrder": "byCreatedTimeReverse",
+  "showFrontmatter": false
 }
