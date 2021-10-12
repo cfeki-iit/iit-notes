@@ -23,6 +23,7 @@ type: folder_brief_live
 * [[Apprentissage Supervisé]]
 	* [[Classification]]
 	* [[Arbres de decision]]
+	* [[Validation des Arbres de Decision]]
 ## TP
 ## Ressources 
 ### Espanso Shortcuts
