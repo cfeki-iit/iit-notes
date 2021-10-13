@@ -18,7 +18,7 @@
 		* Automation removes the need to manage hardware and OS 
 	* Software as a Service (SaaS)
 		* complete product run and managed by the service provider 
-		* (email)
+		* e-mail, drive, facebook ... 
 * Cloud Computing Deployment Models
 	* Cloud 
 		* all part of the application are running in the cloud 
