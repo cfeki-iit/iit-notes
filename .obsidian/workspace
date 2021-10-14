@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "c153826c7603d76c",
-        "type": "leaf",
-        "dimension": 19.516129032258064,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Licence/S5/Architecture Orientée Services/Architecture Orientée Services.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
         "id": "ec26dcf964f6a52d",
         "type": "leaf",
-        "dimension": 44.56989247311828,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Licence/S5/Architecture Orientée Services/Protocole HTTP.md",
+            "file": "Licence/S5/Frameworks et Technologies Big Data/Frameworks et Technologies Big Data.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "9cfe854828f00a9e",
+        "id": "ef0cdb28f0c432b7",
         "type": "leaf",
-        "dimension": 35.913978494623656,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Licence/S5/Architecture Orientée Services/Services Web REST.md",
+            "file": "Licence/S5/Frameworks et Technologies Big Data/HADOOP.md",
             "mode": "source"
           }
         }
@@ -79,7 +65,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Licence/S5/Architecture Orientée Services/Protocole HTTP.md"
+                "file": "Licence/S5/Frameworks et Technologies Big Data/HADOOP.md"
               }
             }
           }
@@ -101,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312,
-    "collapsed": true
+    "width": 312
   },
   "right": {
     "id": "0883c93ff886bb66",
@@ -118,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Licence/S5/Architecture Orientée Services/Protocole HTTP.md",
+                "file": "Licence/S5/Frameworks et Technologies Big Data/HADOOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,17 +133,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ec26dcf964f6a52d",
+  "active": "ef0cdb28f0c432b7",
   "lastOpenFiles": [
-    "Licence/S5/Architecture Orientée Services/Protocole HTTP.md",
-    "Licence/S5/Architecture Orientée Services/Architecture Orientée Services.md",
-    "Licence/S5/Architecture Orientée Services/Services Web REST.md",
-    "Licence/S5/Architecture Orientée Services/Services Web SOAP.md",
-    "Licence/S5/Architecture Orientée Services/JSON.md",
+    "Licence/S5/Frameworks et Technologies Big Data/HADOOP.md",
+    "Licence/S5/Frameworks et Technologies Big Data/Frameworks et Technologies Big Data.md",
+    "Licence/S5/Frameworks et Technologies Big Data/Big Data.md",
+    "Licence/S5/Frameworks et Technologies Big Data/La distribution des données en Big Data.md",
+    "Licence/S5/Frameworks et Technologies Big Data/Les 5 Dimensions du Big Data.md",
+    "Licence/S5/Frameworks et Technologies Big Data/Domaines d'application de Big Data.md",
     "Licence/S5/Cloud et Virtualisation/Cloud et Virtualisation.md",
-    "Licence/S5/Cloud et Virtualisation/Virtualisation des Serveurs.md",
-    "Licence/S5/Cloud et Virtualisation/Virtualisation des réseaux.md",
-    "Licence/S5/Cloud et Virtualisation/AWS Fundamentals Cours/Amazon Web Services.md",
-    "Licence/S5/Cloud et Virtualisation/AWS Fundamentals Cours/Cloud Computing.md"
+    "Licence/S5/Architecture Orientée Services/Architecture Orientée Services.md",
+    "Licence/S5/Architecture Orientée Services/Protocole HTTP.md",
+    "Licence/S5/Architecture Orientée Services/Services Web REST.md"
   ]
 }

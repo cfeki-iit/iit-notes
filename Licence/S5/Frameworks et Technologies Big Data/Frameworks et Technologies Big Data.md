@@ -13,7 +13,7 @@ tags: Course
 ## Metadata
 * Semestre : [[S5]]
 * Professeur: [[@Mouna Torjmen Khemakhem]]
-	* E-mail : 
+	* E-mail : mouna.torjmen@enis.tn
 ## Overview
  
 ```ccard
@@ -22,5 +22,6 @@ type: folder_brief_live
  
 ## Notes de cours
 * [[Big Data]]
+* [[HADOOP]]
 ## TP
 ## Ressources 
