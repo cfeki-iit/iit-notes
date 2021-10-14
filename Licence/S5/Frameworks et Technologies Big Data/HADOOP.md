@@ -21,6 +21,11 @@ tags: "Notes"
 		* tolérance aux pannes 
 		* répartition des taches aux différents noeuds du cluster 
 		* => le développeur s'occupe seuelement de la tache Map-Reduce
+* Hadoop est composé de 2 grandes parties 
+	* [[Hadoop distributed file System - HDFS]]
+		* stockage distribué des données
+	* [[Dtributed Programming FrameWork - MapReduce]]
+		* traitement distribué des données
 * 
 
 ---

@@ -23,5 +23,6 @@ type: folder_brief_live
 ## Notes de cours
 * [[Big Data]]
 * [[HADOOP]]
+	* [[Hadoop distributed file System - HDFS]]
 ## TP
 ## Ressources 
