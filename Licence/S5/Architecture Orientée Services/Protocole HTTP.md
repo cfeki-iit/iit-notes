@@ -44,7 +44,17 @@ tags: "Notes"
 			 * Corps de la requete est vide 
 		 * POST
 			 * 5outh l'information
-		 *  DELETE, PUT, HEAD, OPTIONS, TRACE, CONNECT
+			 * permet de créer / ajouterune nouvelle ressource
+			 * aucune donnée attendue en réponse 
+		 * PUT
+			 * met a jour une ressource 
+			 * aucune donnée attendure en réponse
+		 *  DELETE
+			 *  permet de supprimer une ressource 
+			 *  aucune donnée attendue en réponse
+		 *  HEAD, OPTIONS, TRACE, CONNECT
+ *  **Réponse HTTP**
+	 *  
 
 ---
 [[Protocole HTTP#Notes|up]]
