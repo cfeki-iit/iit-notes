@@ -22,6 +22,7 @@ tags: "Notes"
 		* Bloc : 64Mo 
 		* Chunk : 64 Mo
 		* pour optimiser en temps et en nombre d'accés en lecture, on essaye de synchroniser les blocs et les chunks 
+		* Regle : One block <- One File  donc il faut harmonizer et minimiser les pertes tout en gardant un nombre de blocs reduits par fichier
 
 
 ---
