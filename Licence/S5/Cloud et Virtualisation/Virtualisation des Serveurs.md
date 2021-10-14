@@ -58,6 +58,9 @@ tags: "Notes"
 	VT --> H1(Hosted)
 	H1--> X3(VMware Workstation, Virtual Box)
 	```
+	
+* Docker : 
+	* 
 
 ---
 [[Virtualisation des Serveurs#Notes|up]]
