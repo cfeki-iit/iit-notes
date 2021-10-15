@@ -59,6 +59,15 @@ tags: "Notes"
 		* peut etre réalisée a la demande par une autre entreprise externe qui sera en charge de la conduite du projet de la realisation  des différents audits de la mise en place des procédures et de la rédaction de la documentation associée. 
 * Perstataire Externe: quels avantages ? 
 	* il existe un avantage a faire appel a un prestataire externe, c'est celui de la neutralité
-		* etabli la hierarchisation des différents elements sans aucun 
+		* etabli la hierarchisation des différents elements, la définition des différen sans aucune partie prise 
+		* 
+
+
+
+
+
+
+
+
 ---
 [[Norme ISO27001#Norme ISO27001-2|up]]
