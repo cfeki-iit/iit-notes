@@ -60,7 +60,36 @@ tags: "Notes"
 * Perstataire Externe: quels avantages ? 
 	* il existe un avantage a faire appel a un prestataire externe, c'est celui de la neutralité
 		* etabli la hierarchisation des différents elements, la définition des différen sans aucune partie prise 
-		* 
+* Gestion efficace de la securité de l'information 
+	* implication forte de la DG 
+	* la participatio de l'ensemble des collaborateurs de l'organisme 
+	* créer une nsfrastructure de la sécurité 
+		* comité de gestion de la securite 
+			* sous la responsabilité directede la DG 
+			* memrbres permanants et membres ponctuels ( experts, auditeurs )
+			* nomination du RSSI 
+			* exmane et quivi de la politique 
+			* Controle des incidents de sécurité 
+	* Coordination de la securité dde l'information 
+		* Objectif : garantir l'execution 
+	* Répartition des responasibilités en matiere de securité du SI : 
+		* Definir clairement les domaines de responsabilités de chacun 
+			* identifier et definir clairement les biens et les processus de securité associé a chauque systeme 
+			* identifier l'entité reponsable de chaque bien ou processus et de documenter sa responsabilité (data owner)
+			* definier et docxumenter les differents niveau d'autorisation
+	* Systeme d'autorisation concernant les moyens de traitement de l'information 
+		* objectif : definir et mettre en oeuvre un systeme de gestion des autorisations pour chaque nouveau moyen de traitement de l'information 
+			* approbation de l'installation des nouveau equipements 
+			* verification de la compatitibilité du materiel et des logiciels avec les autres composants du systeme et de leurs conformités avec les regles de sécurité 
+			* identifier et mettre en oeuvre des mesures adaptées pour l'utilisation à des fins professionnelles d'equiepements personnels ou d'usage privé ( pc portables, mobiles etc) 
+	* Entretenir des relations avec des groupes de specialistes 
+		* Objectif : Entretenir des contacs avec des groupes de specialistes des forums spécialisés dans la securité et des associations professionnelles 
+			* mieux connaitre les meilleurs pratiques et se tenir informé de l'evolution des connaissances relatives a la securité
+			* recevoir a l'avance des alertes, des conseils et des correctifs logiciels concernant les attaques et les vulnerabilités 
+			* avoir acc_s a des conseils de specialistes sur la securité informatique 
+			* avoir acc_s a des conseils de specialistes sur la securité informatique 
+			* partager et echanger des informations 
+
 
 
 
