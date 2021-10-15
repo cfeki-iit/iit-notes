@@ -138,7 +138,7 @@ tags: "Notes"
 		*  aelioration de l'approche de l'oranisme en matiere de gestion de la securité des processus supports 
 		*  l'amlioration des objectids de securité et des mesures 
 		*  l'amelioration de l'affectation des ressources et ou des responsabilités 
-		*  
+*  [[Norme ISO27001]]
 
 
 
