@@ -8,7 +8,7 @@ import java.net.Socket;
 public class Server {
     public static void main (String[] args ){
         try{
-            ServerSocket ss = new ServerSocket(1235);
+            ServerSocket ss = new ServerSocket(1234);
 
             System.out.println("J\'attend une connexion");
             Socket s = ss.accept();

@@ -8,7 +8,7 @@ public class Client {
     public static void main (String[] args){
         System.out.println("Le client établit la connexion");
         try{
-            Socket s = new Socket("localhost",1234);
+            Socket s = new Socket("127.0.0.1",1234);
             System.out.println("Je Suis connecté");
             
             InputStream is = s.getInputStream();

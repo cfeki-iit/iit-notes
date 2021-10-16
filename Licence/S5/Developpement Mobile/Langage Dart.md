@@ -32,10 +32,7 @@ tags: "Notes"
 * Dart Web 
 	* indut un compilateur pour le developpement (dartdevc) et un compilateur pour la production ( dart2js )
 * Syntax : 
-	```Dart
-		void main(){
-		
-	```
+
 
 
 
