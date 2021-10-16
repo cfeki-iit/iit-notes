@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Licence/S5/Developpement Mobile/Langage Dart.md",
+            "file": "Licence/S5/Developpement Mobile/Developpement Mobile.md",
             "mode": "source"
           }
         }
@@ -54,7 +54,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Licence/S5/Developpement Mobile/Langage Dart.md"
+                "file": "Licence/S5/Developpement Mobile/Developpement Mobile.md"
               }
             }
           }
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312
+    "width": 312,
+    "collapsed": true
   },
   "right": {
     "id": "0883c93ff886bb66",
@@ -92,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Licence/S5/Developpement Mobile/Langage Dart.md",
+                "file": "Licence/S5/Developpement Mobile/Developpement Mobile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +125,15 @@
   },
   "active": "a20041631e33ed68",
   "lastOpenFiles": [
-    "Licence/S5/Developpement Mobile/Langage Dart.md",
     "Licence/S5/Developpement Mobile/Developpement Mobile.md",
+    "Licence/S5/Developpement Mobile/Flutter Widgets.md",
+    "Licence/S5/Developpement Mobile/Android Studio - Flutter Project.md",
+    "Licence/S5/Developpement Mobile/Flutter coding Good Practices.md",
+    "Licence/S5/Developpement Mobile/Langage Dart.md",
     "Licence/S5/Machine Learning/Machine Learning.md",
     "Licence/S5/Developpement d'applications Réparties/Developpement d'applications Réparties.md",
     "Licence/S5/Developpement d'applications Réparties/Socket Java.md",
     "conflict-files-obsidian-git.md",
-    "Licence/S5/Machine Learning/Validation des Arbres de Decision.md",
-    "Licence/S5/Entreprenariat/Entreprenariat.md",
-    "Licence/S5/Entreprenariat/Formes, Valeurs, et Types d'entrepreneurs.md",
-    "Licence/S5/S5.md"
+    "Licence/S5/Machine Learning/Validation des Arbres de Decision.md"
   ]
 }
