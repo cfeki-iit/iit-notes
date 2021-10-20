@@ -9,18 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Licence/S5/Sécurité Informatique/IIT pratiques.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "b89fa4db0c690d8e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Licence/S5/Sécurité Informatique/Norme ISO27001.md",
+            "file": "Clubs/Music/Lyrics (english) For 16-10-2021.md",
             "mode": "source"
           }
         }
@@ -65,7 +54,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Licence/S5/Sécurité Informatique/Norme ISO27001.md"
+                "file": "Clubs/Music/Lyrics (english) For 16-10-2021.md"
               }
             }
           }
@@ -103,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Licence/S5/Sécurité Informatique/Norme ISO27001.md",
+                "file": "Clubs/Music/Lyrics (english) For 16-10-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,17 +122,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b89fa4db0c690d8e",
+  "active": "f2bfd87ca978fcf3",
   "lastOpenFiles": [
+    "Clubs/Music/Lyrics (english) For 16-10-2021.md",
+    "Clubs/Music/Untitled.md",
+    "Licence/S5/Sécurité Informatique/IIT pratiques.md",
+    "Licence/S5/Untitled.md",
+    "Licence/S5/S5.md",
+    "Licence/S5/Sécurité Informatique/Sécurité Informatique.md",
     "Licence/S5/Sécurité Informatique/Norme ISO27001.md",
     "Licence/S5/Sécurité Informatique/Untitled.md",
     "Licence/S5/Sécurité Informatique/Politique de Sécurité.md",
-    "Templates/Formatting/F- Lecture Note.md",
-    "Licence/S5/Sécurité Informatique/Politique de Securité/Extraction de tables des matieres.md",
-    "Licence/S5/Sécurité Informatique/Politique de Securité/Untitled.md",
-    "Licence/S5/Sécurité Informatique/Sécurité Informatique.md",
-    "Licence/S5/Frameworks et Technologies Big Data/Frameworks et Technologies Big Data.md",
-    "Licence/S5/Frameworks et Technologies Big Data/Hadoop distributed file System - HDFS.md",
-    "Excalidraw/Drawing 2021-10-14 16.11.31.excalidraw.md"
+    "Templates/Formatting/F- Lecture Note.md"
   ]
 }
