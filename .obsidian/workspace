@@ -10,6 +10,17 @@
           "type": "markdown",
           "state": {
             "file": "Licence/S5/Cloud et Virtualisation/Cloud et Virtualisation.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "2f768ff22478a233",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Licence/S5/Cloud et Virtualisation/AWS Fundamentals Cours/Cloud Computing.md",
             "mode": "source"
           }
         }
@@ -54,7 +65,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Licence/S5/Cloud et Virtualisation/Cloud et Virtualisation.md"
+                "file": "Licence/S5/Cloud et Virtualisation/AWS Fundamentals Cours/Cloud Computing.md"
               }
             }
           }
@@ -92,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Licence/S5/Cloud et Virtualisation/Cloud et Virtualisation.md",
+                "file": "Licence/S5/Cloud et Virtualisation/AWS Fundamentals Cours/Cloud Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,17 +133,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f2bfd87ca978fcf3",
+  "active": "2f768ff22478a233",
   "lastOpenFiles": [
+    "Licence/S5/Cloud et Virtualisation/AWS Fundamentals Cours/Cloud Computing.md",
+    "Licence/S5/Cloud et Virtualisation/AWS Fundamentals Cours/Amazon Web Services.md",
+    "Licence/S5/Cloud et Virtualisation/Virtualisation des réseaux.md",
     "Licence/S5/Cloud et Virtualisation/Cloud et Virtualisation.md",
     "Licence/S5/S5.md",
     "Clubs/Music/Lyrics (english) For 16-10-2021.md",
     "Clubs/Music/Untitled.md",
     "Licence/S5/Sécurité Informatique/IIT pratiques.md",
     "Licence/S5/Untitled.md",
-    "Licence/S5/Sécurité Informatique/Sécurité Informatique.md",
-    "Licence/S5/Sécurité Informatique/Norme ISO27001.md",
-    "Licence/S5/Sécurité Informatique/Untitled.md",
-    "Licence/S5/Sécurité Informatique/Politique de Sécurité.md"
+    "Licence/S5/Sécurité Informatique/Sécurité Informatique.md"
   ]
 }
