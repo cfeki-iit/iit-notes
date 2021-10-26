@@ -25,6 +25,7 @@ type: folder_brief_live
 	* [[Arbres de decision]]
 	* [[Validation des Arbres de Decision]]
 ## TP
+![[Pasted image 20211019162223.png]]
 ## Ressources 
 ### Espanso Shortcuts
 * :ia == Intelligence  Artificielle
