@@ -16,5 +16,6 @@ type: folder_brief_live
 ```
  
 ## Notes de cours
+[[Ameliorer la prise de parole en public]]
 ## TP
 ## Ressources 
