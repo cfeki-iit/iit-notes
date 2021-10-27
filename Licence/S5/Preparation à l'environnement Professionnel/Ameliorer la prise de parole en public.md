@@ -10,7 +10,8 @@ tags: "Notes"
 * la prise de parole en publique est une occasion de bien communiquer 
 * il est necessaire de travailler donc sur ça communication
 	* communiquer bien 
-		* 
+		* detecter les obstacles à la communication 
+			* 
 
 
 ---
