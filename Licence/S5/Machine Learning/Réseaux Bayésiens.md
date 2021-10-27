@@ -28,5 +28,26 @@ tags: "Notes"
 * Un réseau bayesien est defini par 
 	* une description qualitative des dependances ou des indépendances conditionnelles entre des variables dans un grpahe orienté sans circuit 
 
+```mermaid 
+graph TD
+
+C((Cancer))
+D((Dyspnee))
+A((Asie))
+R((Rayon X))
+T((Tuberculose))
+B((Bronchite))
+F((f))
+
+T-->D
+C-->D
+B-->D
+A-->T
+F-->C
+F-->B
+T-->R
+C-->R
+```
+
 ---
 [[Réseaux Bayésiens#Réseaux Bayésiens|up]]

@@ -4,17 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "f2bfd87ca978fcf3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Licence/S5/Machine Learning/Machine Learning.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
         "id": "114652dc2cdae900",
         "type": "leaf",
         "state": {
@@ -23,7 +12,20 @@
             "file": "Licence/S5/Machine Learning/Réseaux Bayésiens.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "3a37ef7181c8e5aa"
+      },
+      {
+        "id": "353b99db3ffc8cd2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Licence/S5/Machine Learning/Réseaux Bayésiens.md",
+            "mode": "preview"
+          }
+        },
+        "group": "3a37ef7181c8e5aa"
       }
     ],
     "direction": "vertical"
