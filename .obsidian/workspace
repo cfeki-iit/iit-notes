@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Licence/S5/Machine Learning/Réseaux Bayésiens.md",
+            "file": "Licence/S5/Preparation à l'environnement Professionnel/Preparation CV/Personal SWOT.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Licence/S5/Machine Learning/Réseaux Bayésiens.md",
+            "file": "Licence/S5/Preparation à l'environnement Professionnel/Preparation CV/Personal SWOT.md",
             "mode": "preview"
           }
         },
@@ -67,7 +67,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Licence/S5/Machine Learning/Réseaux Bayésiens.md"
+                "file": "Licence/S5/Preparation à l'environnement Professionnel/Preparation CV/Personal SWOT.md"
               }
             }
           }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Licence/S5/Machine Learning/Réseaux Bayésiens.md",
+                "file": "Licence/S5/Preparation à l'environnement Professionnel/Preparation CV/Personal SWOT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,15 +137,15 @@
   },
   "active": "114652dc2cdae900",
   "lastOpenFiles": [
-    "Licence/S5/Machine Learning/Réseaux Bayésiens.md",
+    "Licence/S5/Preparation à l'environnement Professionnel/Preparation CV/Personal SWOT.md",
+    "Licence/S5/Preparation à l'environnement Professionnel/Preparation CV/Stuff to Put In My CV.md",
+    "Licence/S5/Preparation à l'environnement Professionnel/Preparation CV/Présentation.md",
+    "Licence/S5/Preparation à l'environnement Professionnel/Preparation à l'environnement Professionnel.md",
     "Licence/S5/Machine Learning/Machine Learning.md",
+    "Licence/S5/Cloud et Virtualisation/Cloud et Virtualisation.md",
+    "Licence/S5/Machine Learning/Réseaux Bayésiens.md",
     "Licence/S5/Machine Learning/Arbres de decision.md",
     "Licence/S5/Machine Learning/Validation des Arbres de Decision.md",
-    "Licence/S5/Cloud et Virtualisation/Cloud et Virtualisation.md",
-    "_Start Here.md",
-    "Licence/S5/Cloud et Virtualisation/AWS Fundamentals Cours/Cloud Computing.md",
-    "Licence/S5/Cloud et Virtualisation/AWS Fundamentals Cours/Amazon Web Services.md",
-    "Licence/S5/Cloud et Virtualisation/Virtualisation des réseaux.md",
-    "Licence/S5/S5.md"
+    "_Start Here.md"
   ]
 }
