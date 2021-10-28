@@ -23,6 +23,7 @@ type: folder_brief_live
 * [[Introduction à l'Architecture Orientée Services]]
 * [[Technologies XML]]
 * [[JSON]]
+* [[Protocole HTTP | Interet du Protocole HTTP pour les services Web]]
 * [[Services Web SOAP]]
 * [[Services Web REST]]
 ## TP

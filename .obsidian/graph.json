@@ -5,18 +5,54 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
+<<<<<<< HEAD
   "collapse-color-groups": true,
   "colorGroups": [],
+=======
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Course",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#Semester",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#Notes",
+      "color": {
+        "a": 1,
+        "rgb": 9752037
+      }
+    }
+  ],
+>>>>>>> 3e9037f70ec150fa208f66ea82c6554e5bec362a
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
+<<<<<<< HEAD
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.08150214675999293,
   "close": false
+=======
+  "centerStrength": 0.316372863247863,
+  "repelStrength": 6.49839743589744,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.1448410529470671,
+  "close": true
+>>>>>>> 3e9037f70ec150fa208f66ea82c6554e5bec362a
 }

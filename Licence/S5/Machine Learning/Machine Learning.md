@@ -23,7 +23,8 @@ type: folder_brief_live
 * [[Apprentissage Supervisé]]
 	* [[Classification]]
 	* [[Arbres de decision]]
-	* [[Validation des Arbres de Decision]]
+		* [[Validation des Arbres de Decision]]
+	* [[Réseaux Bayésiens]]
 ## TP
 ![[Pasted image 20211019162223.png]]
 ## Ressources 

@@ -10,4 +10,4 @@ tags: "Notes"
 
 
 ---
-[[{{title}}#Notes|up]]
+[[{{title}}#{{title}}|up]]
