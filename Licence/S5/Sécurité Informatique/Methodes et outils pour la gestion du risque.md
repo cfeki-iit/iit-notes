@@ -6,6 +6,7 @@ By Yasmine Kharrat et Sirine Ben Slima
 * utiliser les graphiques à son avantage 
 * installer les logiciels mentionnées pour avoir une idée  pratique sur son fonctionnement
 * utiliser des exemples pertinants 
+* ne mettez rien que vous ne maitrisez pas 
 # Contenu
 ## definition globale du risque 
 *  la gestion de risques en informatique = ensemble de demarches et outils pour id controler les risques 

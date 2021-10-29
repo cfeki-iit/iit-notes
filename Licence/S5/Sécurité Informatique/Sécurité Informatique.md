@@ -20,6 +20,7 @@ type: folder_brief_live
 * [[Services de Securité]]
 * [[Points de Controle. Domaine de Securité. Domaine de confiance]]
 * [[Gestion de risques]]
+* [[Plan de continuité d'activité]]
 ## TP
 * Présentations des etudiants 
 	* [[Methodes et outils pour la gestion du risque]]
