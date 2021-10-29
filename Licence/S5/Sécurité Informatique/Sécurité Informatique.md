@@ -21,4 +21,6 @@ type: folder_brief_live
 * [[Points de Controle. Domaine de Securité. Domaine de confiance]]
 * [[Gestion de risques]]
 ## TP
+* Présentations des etudiants 
+	* [[Methodes et outils pour la gestion du risque]]
 ## Ressources 
