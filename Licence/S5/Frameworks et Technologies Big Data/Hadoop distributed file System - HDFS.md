@@ -23,6 +23,29 @@ tags: "Notes"
 		* Chunk : 64 Mo
 		* pour optimiser en temps et en nombre d'accés en lecture, on essaye de synchroniser les blocs et les chunks 
 		* Regle : One block <- One File  donc il faut harmonizer et minimiser les pertes tout en gardant un nombre de blocs reduits par fichier
+* Composantes du systeme HDFS : 
+	* Name Node 
+		* ![[Drawing 2021-11-01 11.48.12.excalidraw]]
+		* Gestion des data nodes en cas de panne et d'ajout de nouveau data nodes 
+		* gestion des requetes utilisateurs ( clients )
+		* gestion des duplications 
+		* gestion des méta-données 
+			* liste des fichiers 
+			* liste des data nodes pour chaque chunk 
+			* liste des chunks pour chaque fichier  
+		* Centralisation de localisation des chunks de donnée répartis
+		* Identification des data nodes dans lequels les chunks sont stockés  
+		* SPOF! 
+	* Secondary Name Node 
+		* name node secondaire qui verifie periodiquement l'etat du name node principal et fait un copie des metadonnées 
+		* en cas de panne dans le Name node principal, le namenode secondaire le remplace 
+	* Data Node 
+		* enregistrer (écriture) et recupère (lecture) les chunks de données 
+		* en lecture, les data nodes transmettent au client les chunks correspondants aux fichier  grace au Name node 
+		* en ecriture les data nodes retournent l'emplacement des chunks crées au name node
+		* chaque data node envoie periodiquement au namenode la liste des chunks de données qu'il contient a travers les heartbeats 
+
+
 
 > ### Exercice 1 : 
 > Bloc = 128MB
@@ -42,7 +65,8 @@ tags: "Notes"
 > 15 x  204,800 / 128 = 24,000 blocs
 > blocs restants : 40,000 = 16,000 blocs 
 
-![[Drawing 2021-11-01 11.48.12.excalidraw]]
+
+![[Drawing 2021-11-01 12.55.06.excalidraw]]
 
 ---
 [[Hadoop distributed file System - HDFS#Notes|up]]

@@ -4,20 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "03f5b2d9cabed208",
-        "type": "leaf",
-        "dimension": 66.7312661498708,
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "Excalidraw/Drawing 2021-11-01 12.55.06.excalidraw.md"
-          }
-        }
-      },
-      {
         "id": "e68b4537e9075e56",
         "type": "leaf",
-        "dimension": 33.2687338501292,
         "state": {
           "type": "markdown",
           "state": {
@@ -66,7 +54,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2021-11-01 12.55.06.excalidraw.md"
+                "file": "Licence/S5/Frameworks et Technologies Big Data/Hadoop distributed file System - HDFS.md"
               }
             }
           }
@@ -104,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2021-11-01 12.55.06.excalidraw.md",
+                "file": "Licence/S5/Frameworks et Technologies Big Data/Hadoop distributed file System - HDFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,13 +122,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "03f5b2d9cabed208",
+  "active": "e68b4537e9075e56",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2021-11-01 12.55.06.excalidraw.md",
-    "Excalidraw/Drawing 2021-11-01 11.48.12.excalidraw.md",
     "Licence/S5/Frameworks et Technologies Big Data/Hadoop distributed file System - HDFS.md",
-    "Licence/S5/Frameworks et Technologies Big Data/Les 5 Dimensions du Big Data.md",
+    "Excalidraw/Drawing 2021-11-01 11.48.12.excalidraw.md",
     "Excalidraw/Drawing 2021-10-14 16.11.31.excalidraw.md",
+    "Excalidraw/Drawing 2021-11-01 12.55.06.excalidraw.md",
+    "Licence/S5/Frameworks et Technologies Big Data/Les 5 Dimensions du Big Data.md",
     "Licence/S5/Frameworks et Technologies Big Data/Frameworks et Technologies Big Data.md",
     "Licence/S5/Entreprenariat/Entreprenariat.md",
     "Licence/S5/Preparation à l'environnement Professionnel/Preparation à l'environnement Professionnel.md",
