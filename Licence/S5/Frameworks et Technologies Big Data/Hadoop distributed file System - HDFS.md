@@ -33,13 +33,16 @@ tags: "Notes"
 > 2 copies ( 1 original + 1 copies ) =>100 blocs 
 > 20 blocs restants 
 
-> ### Exercice 2: 
+> ### Exercice 2 : 
 > 50 machines 
-> 100 GB par machines => total 5000Gb
+> 100 GB par machine => total 5000Gb
 > taille bloc 128MB
-> nombre total de blocs : 5,120,000 / 128 = 40000 blocs
+> nombre total de blocs : 5,120,000 / 128 = 40,000 blocs
 > 5 fichiers ( x3 car copies ) 200gb each 
+> 15 x  204,800 / 128 = 24,000 blocs
+> blocs restants : 40,000 = 16,000 blocs 
 
+![[Drawing 2021-11-01 11.48.12.excalidraw]]
 
 ---
 [[Hadoop distributed file System - HDFS#Notes|up]]
