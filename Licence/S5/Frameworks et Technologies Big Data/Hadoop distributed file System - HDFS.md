@@ -24,6 +24,22 @@ tags: "Notes"
 		* pour optimiser en temps et en nombre d'accés en lecture, on essaye de synchroniser les blocs et les chunks 
 		* Regle : One block <- One File  donc il faut harmonizer et minimiser les pertes tout en gardant un nombre de blocs reduits par fichier
 
+> ### Exercice 1 : 
+> Bloc = 128MB
+> Taille totale disque : 15GB
+>  nombre de blocs : 120 blocs 
+> 50 fichiers de taille 20mb  
+> One block One File => 50 blocs 
+> 2 copies ( 1 original + 1 copies ) =>100 blocs 
+> 20 blocs restants 
+
+> ### Exercice 2: 
+> 50 machines 
+> 100 GB par machines => total 5000Gb
+> taille bloc 128MB
+> nombre total de blocs : 5,120,000 / 128 = 40000 blocs
+> 5 fichiers ( x3 car copies ) 200gb each 
+
 
 ---
 [[Hadoop distributed file System - HDFS#Notes|up]]

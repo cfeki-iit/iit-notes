@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a20041631e33ed68",
+        "id": "03f5b2d9cabed208",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Licence/S5/Entreprenariat/Entreprenariat.md",
+            "file": "Licence/S5/Frameworks et Technologies Big Data/Hadoop distributed file System - HDFS.md",
             "mode": "source"
           }
         }
@@ -54,7 +54,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Licence/S5/Entreprenariat/Entreprenariat.md"
+                "file": "Licence/S5/Frameworks et Technologies Big Data/Hadoop distributed file System - HDFS.md"
               }
             }
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Licence/S5/Entreprenariat/Entreprenariat.md",
+                "file": "Licence/S5/Frameworks et Technologies Big Data/Hadoop distributed file System - HDFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,17 +122,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a20041631e33ed68",
+  "active": "03f5b2d9cabed208",
   "lastOpenFiles": [
+    "Licence/S5/Frameworks et Technologies Big Data/Hadoop distributed file System - HDFS.md",
+    "Licence/S5/Frameworks et Technologies Big Data/Les 5 Dimensions du Big Data.md",
+    "Excalidraw/Drawing 2021-10-14 16.11.31.excalidraw.md",
+    "Licence/S5/Frameworks et Technologies Big Data/Frameworks et Technologies Big Data.md",
     "Licence/S5/Entreprenariat/Entreprenariat.md",
     "Licence/S5/Preparation à l'environnement Professionnel/Preparation à l'environnement Professionnel.md",
     "Licence/S5/Developpement Mobile/Developpement Mobile.md",
     "Licence/S5/Architecture Orientée Services/Architecture Orientée Services.md",
     "Licence/S5/Developpement d'applications Réparties/Developpement d'applications Réparties.md",
-    "Licence/S5/Sécurité Informatique/Plan de continuité d'activité.md",
-    "Licence/S5/Sécurité Informatique/Sécurité Informatique.md",
-    "Licence/S5/Sécurité Informatique/Methodes et outils pour la gestion du risque.md",
-    "Licence/S5/Architecture Orientée Services/Protocole HTTP.md",
-    "Licence/S5/Architecture Orientée Services/Services Web REST.md"
+    "Licence/S5/Sécurité Informatique/Plan de continuité d'activité.md"
   ]
 }

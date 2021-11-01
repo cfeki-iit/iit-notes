@@ -15,6 +15,7 @@ tags: "Notes"
 	* Données de natures différentes ( text video audio )
 * Vélocité
 	* données en temps réel (internet of things, streaming)
+	* données disponibles de maniere continue et qu'il faut taiter en temps réel sans meme les traiter 
 * Véracité
 	* qualité de la fiabilité des données 
 	* données bruitées imprécises 
