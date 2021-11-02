@@ -27,6 +27,7 @@ type: folder_brief_live
 	* [[Réseaux Bayésiens]]
 ## TP
 ![[Pasted image 20211019162223.png]]
+[[geNIE/SMILE manipulation]]
 ## Ressources 
 ### Espanso Shortcuts
 * :ia == Intelligence  Artificielle
