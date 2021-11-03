@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "f96d5ab11e772744",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -54,7 +65,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Licence/S5/Frameworks et Technologies Big Data/Dtributed Programming FrameWork - MapReduce.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -92,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Licence/S5/Frameworks et Technologies Big Data/Dtributed Programming FrameWork - MapReduce.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,8 +133,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e68b4537e9075e56",
+  "active": "f96d5ab11e772744",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Licence/S5/Frameworks et Technologies Big Data/Dtributed Programming FrameWork - MapReduce.md",
     "Licence/S5/Frameworks et Technologies Big Data/HADOOP.md",
     "Licence/S5/Frameworks et Technologies Big Data/Hadoop distributed file System - HDFS.md",
@@ -132,7 +144,6 @@
     "Licence/S5/Cloud et Virtualisation/Introduction à la Virtualisation.md",
     "Licence/S5/Cloud et Virtualisation/Virtualisation des réseaux.md",
     "Licence/S5/Cloud et Virtualisation/Ressources/séance 3_Les techniques de virtualisation.pdf",
-    "Excalidraw/Drawing 2021-11-01 11.48.12.excalidraw.md",
-    "Excalidraw/Drawing 2021-10-14 16.11.31.excalidraw.md"
+    "Excalidraw/Drawing 2021-11-01 11.48.12.excalidraw.md"
   ]
 }
