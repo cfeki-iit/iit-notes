@@ -25,6 +25,7 @@ type: folder_brief_live
 * [[Virtualisation des postes de travail]]
 * [[Virtualisation des Applications]]
 * [[Les Conteneurs]]
+	* [[Docker]]
 * [[Virtualisation et Cloud Computing]]
 ## TP
 Preparer pour le 27 Octobre : 
