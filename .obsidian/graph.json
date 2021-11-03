@@ -6,7 +6,29 @@
   "hideUnresolved": true,
   "showOrphans": false,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#Semester",
+      "color": {
+        "a": 1,
+        "rgb": 16762148
+      }
+    },
+    {
+      "query": "tag:#Course",
+      "color": {
+        "a": 1,
+        "rgb": 14823986
+      }
+    },
+    {
+      "query": "tag:#Notes",
+      "color": {
+        "a": 1,
+        "rgb": 5878248
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.09748609800378524,
+  "scale": 0.09748609800378506,
   "close": false
 }

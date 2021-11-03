@@ -24,7 +24,7 @@ tags: "Notes"
 		* pour optimiser en temps et en nombre d'accés en lecture, on essaye de synchroniser les blocs et les chunks 
 		* Regle : One block <- One File  donc il faut harmonizer et minimiser les pertes tout en gardant un nombre de blocs reduits par fichier
 * Composantes du systeme HDFS : 
-	* Name Node 
+	* **Name Node** 
 		* ![[Drawing 2021-11-01 11.48.12.excalidraw]]
 		* Gestion des data nodes en cas de panne et d'ajout de nouveau data nodes 
 		* gestion des requetes utilisateurs ( clients )
@@ -36,10 +36,10 @@ tags: "Notes"
 		* Centralisation de localisation des chunks de donnée répartis
 		* Identification des data nodes dans lequels les chunks sont stockés  
 		* SPOF! 
-	* Secondary Name Node 
+	* **Secondary Name Node** 
 		* name node secondaire qui verifie periodiquement l'etat du name node principal et fait un copie des metadonnées 
 		* en cas de panne dans le Name node principal, le namenode secondaire le remplace 
-	* Data Node 
+	* **Data Node** 
 		* enregistrer (écriture) et recupère (lecture) les chunks de données 
 		* en lecture, les data nodes transmettent au client les chunks correspondants aux fichier  grace au Name node 
 		* en ecriture les data nodes retournent l'emplacement des chunks crées au name node

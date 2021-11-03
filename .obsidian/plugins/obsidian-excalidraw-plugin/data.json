@@ -3,10 +3,11 @@
   "templateFilePath": "Excalidraw/Template.excalidraw",
   "drawingFilenamePrefix": "Drawing ",
   "drawingFilenameDateTime": "YYYY-MM-DD HH.mm.ss",
-  "displaySVGInPreview": true,
   "width": "400",
   "matchTheme": false,
+  "matchThemeAlways": false,
   "zoomToFitOnResize": true,
+  "zoomToFitMaxLevel": 2,
   "linkPrefix": "📍",
   "urlPrefix": "🌐",
   "openInAdjacentPane": false,
@@ -14,6 +15,7 @@
   "allowCtrlClick": true,
   "forceWrap": false,
   "pageTransclusionCharLimit": 200,
+  "iframelyAllowed": true,
   "pngExportScale": 1,
   "exportWithTheme": true,
   "exportWithBackground": true,
@@ -29,5 +31,7 @@
   "loadCount": 1,
   "drawingOpenCount": 0,
   "library": "{\"type\":\"excalidrawlib\",\"version\":1,\"library\":[]}",
-  "patchCommentBlock": false
+  "patchCommentBlock": false,
+  "imageElementNotice": false,
+  "displaySVGInPreview": true
 }
