@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Licence/S5/Architecture Orientée Services/Protocole HTTP.md",
+            "file": "Licence/S5/Developpement Mobile/Projet/Flutter Project.md",
             "mode": "source"
           }
         }
@@ -54,7 +54,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Licence/S5/Architecture Orientée Services/Protocole HTTP.md"
+                "file": "Licence/S5/Developpement Mobile/Projet/Flutter Project.md"
               }
             }
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Licence/S5/Architecture Orientée Services/Protocole HTTP.md",
+                "file": "Licence/S5/Developpement Mobile/Projet/Flutter Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
   },
   "active": "e68b4537e9075e56",
   "lastOpenFiles": [
+    "Licence/S5/Developpement Mobile/Projet/Flutter Project.md",
+    "Licence/S5/Developpement Mobile/Developpement Mobile.md",
+    "Licence/S5/Developpement Mobile/Android Studio - Flutter Project.md",
+    "Licence/S5/Architecture Orientée Services/Architecture Orientée Services.md",
+    "Licence/S5/S5.md",
     "Licence/S5/Architecture Orientée Services/Protocole HTTP.md",
     "Licence/S5/Architecture Orientée Services/Services Web REST.md",
     "Licence/S5/Architecture Orientée Services/Services Web SOAP.md",
-    "Licence/S5/Architecture Orientée Services/Architecture Orientée Services.md",
     "Licence/S5/Cloud et Virtualisation/Cloud et Virtualisation.md",
-    "Licence/S5/Cloud et Virtualisation/Docker.md",
-    "Licence/S5/Frameworks et Technologies Big Data/Frameworks et Technologies Big Data.md",
-    "Licence/S5/Entreprenariat/Entreprenariat.md",
-    "Licence/S5/Frameworks et Technologies Big Data/Dtributed Programming FrameWork - MapReduce.md",
-    "conflict-files-obsidian-git.md"
+    "Licence/S5/Cloud et Virtualisation/Docker.md"
   ]
 }
