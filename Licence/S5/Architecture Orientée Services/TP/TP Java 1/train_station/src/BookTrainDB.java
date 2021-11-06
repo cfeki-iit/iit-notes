@@ -1,20 +1,20 @@
+import java.util.List;
 import java.util.ArrayList;
 
 public class BookTrainDB {
     
-    ArrayList<Train> trains;
+    private static List<Train> trains = new ArrayList<Train>();
 
-    public BookTrainDB(ArrayList<Train> trains) {
-        this.trains = trains;
+    static {
+        trains.add(new Train(2021,"sf","Tun","8h00"));
+        trains.add(new Train(2022,"gb","sf","10h15"));
+        trains.add(new Train(2023,"sf","Ss","12h25"));
+        trains.add(new Train(2021,"Ss","Tun","8h450"));
     }
 
-    public ArrayList<Train> getTrainDB() {
+    public static List<Train> getTrains(){
         return trains;
     }
-
-    public void setTrainDB(ArrayList<Train> trains) {
-        this.trains = trains;
-    }
-
     
 }
+ 
