@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This network was created in GeNIe Academic, which can be used for academic teaching and research purposes only -->
+<smile version="1.0" id="tic_tac_toe" numsamples="10000" discsamples="10000">
+	<nodes>
+		<cpt id="class">
+			<state id="negative" />
+			<state id="positive" />
+			<probabilities>0.3467153284671533 0.6532846715328468</probabilities>
+		</cpt>
+		<cpt id="top_left_square">
+			<state id="b" />
+			<state id="o" />
+			<state id="x" />
+			<parents>class</parents>
+			<probabilities>0.1901901901901902 0.4394394394394395 0.3703703703703703 0.2270069112174375 0.3019670388091441 0.4710260499734183</probabilities>
+		</cpt>
+		<cpt id="top_middle_square">
+			<state id="b" />
+			<state id="o" />
+			<state id="x" />
+			<parents>class</parents>
+			<probabilities>0.2352352352352352 0.3043043043043043 0.4604604604604605 0.2748538011695907 0.3657628920786816 0.3593833067517278</probabilities>
+		</cpt>
+		<cpt id="top_right_square">
+			<state id="b" />
+			<state id="o" />
+			<state id="x" />
+			<parents>class</parents>
+			<probabilities>0.1901901901901902 0.4394394394394395 0.3703703703703703 0.2270069112174375 0.3019670388091441 0.4710260499734183</probabilities>
+		</cpt>
+		<cpt id="middle_left_square">
+			<state id="b" />
+			<state id="o" />
+			<state id="x" />
+			<parents>class</parents>
+			<probabilities>0.2352352352352352 0.3043043043043043 0.4604604604604605 0.2748538011695907 0.3657628920786816 0.3593833067517278</probabilities>
+		</cpt>
+		<cpt id="middle_middle_square">
+			<state id="b" />
+			<state id="o" />
+			<state id="x" />
+			<parents>class</parents>
+			<probabilities>0.1451451451451451 0.5775775775775776 0.2772772772772772 0.1791600212652844 0.2365762892078682 0.5842636895268474</probabilities>
+		</cpt>
+		<cpt id="middle_right_square">
+			<state id="b" />
+			<state id="o" />
+			<state id="x" />
+			<parents>class</parents>
+			<probabilities>0.2352352352352352 0.3043043043043043 0.4604604604604605 0.2748538011695907 0.3657628920786816 0.3593833067517278</probabilities>
+		</cpt>
+		<cpt id="bottom_left_square">
+			<state id="b" />
+			<state id="o" />
+			<state id="x" />
+			<parents>class</parents>
+			<probabilities>0.1901901901901902 0.4394394394394395 0.3703703703703703 0.2270069112174375 0.3019670388091441 0.4710260499734183</probabilities>
+		</cpt>
+		<cpt id="bottom_middle_square">
+			<state id="b" />
+			<state id="o" />
+			<state id="x" />
+			<parents>class</parents>
+			<probabilities>0.2352352352352352 0.3043043043043043 0.4604604604604605 0.2748538011695907 0.3657628920786816 0.3593833067517278</probabilities>
+		</cpt>
+		<cpt id="bottom_right_square">
+			<state id="b" />
+			<state id="o" />
+			<state id="x" />
+			<parents>class</parents>
+			<probabilities>0.1901901901901902 0.4394394394394395 0.3703703703703703 0.2270069112174375 0.3019670388091441 0.4710260499734183</probabilities>
+		</cpt>
+	</nodes>
+	<extensions>
+		<genie version="1.0" app="GeNIe 3.0.6518.0 ACADEMIC" name="tic-tac-toe">
+			<node id="top_left_square">
+				<name>top_left_square</name>
+				<interior color="e5f6f7" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>599 176 671 224</position>
+			</node>
+			<node id="top_middle_square">
+				<name>top_middle_square</name>
+				<interior color="e5f6f7" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>546 252 618 300</position>
+			</node>
+			<node id="top_right_square">
+				<name>top_right_square</name>
+				<interior color="e5f6f7" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>386 292 458 340</position>
+			</node>
+			<node id="middle_left_square">
+				<name>middle_left_square</name>
+				<interior color="e5f6f7" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>290 319 362 367</position>
+			</node>
+			<node id="middle_middle_square">
+				<name>middle_middle_square</name>
+				<interior color="e5f6f7" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>197 261 269 309</position>
+			</node>
+			<node id="middle_right_square">
+				<name>middle_right_square</name>
+				<interior color="e5f6f7" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>195 115 267 163</position>
+			</node>
+			<node id="bottom_left_square">
+				<name>bottom_left_square</name>
+				<interior color="e5f6f7" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>261 32 333 80</position>
+			</node>
+			<node id="bottom_middle_square">
+				<name>bottom_middle_square</name>
+				<interior color="e5f6f7" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>389 35 461 83</position>
+			</node>
+			<node id="bottom_right_square">
+				<name>bottom_right_square</name>
+				<interior color="e5f6f7" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>579 53 651 101</position>
+			</node>
+			<node id="class">
+				<name>class</name>
+				<interior color="ffff80" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>360 156 432 204</position>
+			</node>
+			<textbox>
+				<caption>Input file: tic-tac-toe.txt\nData rows: 958\nElapsed time: 0.016s\n\nLearning algorithm: Naive Bayes\nAlgorithm parameters:\nClass variable: class\n\nEM Log Likelihood: -9697.47</caption>
+				<font color="000000" name="Arial" size="8" />
+				<position>30 312 185 438</position>
+			</textbox>
+		</genie>
+	</extensions>
+</smile>
