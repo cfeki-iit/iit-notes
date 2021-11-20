@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Licence/S5/Frameworks et Technologies Big Data/Hadoop distributed file System - HDFS.md",
+            "file": "Licence/S5/Frameworks et Technologies Big Data/Dtributed Programming FrameWork - MapReduce.md",
             "mode": "source"
           }
         }
@@ -54,7 +54,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Licence/S5/Frameworks et Technologies Big Data/Hadoop distributed file System - HDFS.md"
+                "file": "Licence/S5/Frameworks et Technologies Big Data/Dtributed Programming FrameWork - MapReduce.md"
               }
             }
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Licence/S5/Frameworks et Technologies Big Data/Hadoop distributed file System - HDFS.md",
+                "file": "Licence/S5/Frameworks et Technologies Big Data/Dtributed Programming FrameWork - MapReduce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
   },
   "active": "e68b4537e9075e56",
   "lastOpenFiles": [
-    "Licence/S5/Frameworks et Technologies Big Data/Hadoop distributed file System - HDFS.md",
-    "Excalidraw/Drawing 2021-10-14 16.11.31.excalidraw.md",
+    "Licence/S5/Frameworks et Technologies Big Data/Dtributed Programming FrameWork - MapReduce.md",
     "Licence/S5/Frameworks et Technologies Big Data/HADOOP.md",
-    "Licence/S5/Developpement d'applications Réparties/Developpement d'applications Réparties.md",
+    "Licence/S5/Frameworks et Technologies Big Data/Hadoop distributed file System - HDFS.md",
     "Licence/S5/Frameworks et Technologies Big Data/La distribution des données en Big Data.md",
+    "Excalidraw/Drawing 2021-11-01 12.55.06.excalidraw.md",
+    "Excalidraw/Drawing 2021-10-14 16.11.31.excalidraw.md",
+    "Licence/S5/Developpement d'applications Réparties/Developpement d'applications Réparties.md",
     "Licence/S5/Frameworks et Technologies Big Data/Les 5 Dimensions du Big Data.md",
     "Licence/S5/Frameworks et Technologies Big Data/Domaines d'application de Big Data.md",
-    "Licence/S5/Frameworks et Technologies Big Data/Big Data.md",
-    "Licence/S5/Frameworks et Technologies Big Data/Frameworks et Technologies Big Data.md",
-    "Licence/S5/Frameworks et Technologies Big Data/Dtributed Programming FrameWork - MapReduce.md"
+    "Licence/S5/Frameworks et Technologies Big Data/Big Data.md"
   ]
 }
