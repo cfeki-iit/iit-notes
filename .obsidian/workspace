@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e68b4537e9075e56",
+        "id": "b4fd56df883a3e7d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Licence/S5/Frameworks et Technologies Big Data/Hadoop distributed file System - HDFS.md",
-            "mode": "source"
+            "file": "Licence/S5/Cloud et Virtualisation/Ressources/TP 4. Stockage persistant, Dockerfile et Docker-compose.pdf"
           }
         }
       }
@@ -54,7 +53,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Licence/S5/Frameworks et Technologies Big Data/Hadoop distributed file System - HDFS.md"
+                "file": "Licence/S5/Cloud et Virtualisation/Ressources/TP 4. Stockage persistant, Dockerfile et Docker-compose.pdf"
               }
             }
           }
@@ -76,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 198
+    "width": 312
   },
   "right": {
     "id": "0883c93ff886bb66",
@@ -92,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Licence/S5/Frameworks et Technologies Big Data/Hadoop distributed file System - HDFS.md",
+                "file": "Licence/S5/Cloud et Virtualisation/Ressources/TP 4. Stockage persistant, Dockerfile et Docker-compose.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,17 +121,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e68b4537e9075e56",
+  "active": "b4fd56df883a3e7d",
   "lastOpenFiles": [
-    "Licence/S5/Frameworks et Technologies Big Data/Hadoop distributed file System - HDFS.md",
+    "Licence/S5/Cloud et Virtualisation/Ressources/TP 4. Stockage persistant, Dockerfile et Docker-compose.pdf",
+    "Licence/S5/Cloud et Virtualisation/Cloud et Virtualisation.md",
+    "geNIE/SMILE manipulation.md",
     "Excalidraw/Drawing 2021-10-14 16.11.31.excalidraw.md",
-    "Licence/S5/Frameworks et Technologies Big Data/HADOOP.md",
-    "Licence/S5/Developpement d'applications Réparties/Developpement d'applications Réparties.md",
-    "Licence/S5/Frameworks et Technologies Big Data/La distribution des données en Big Data.md",
-    "Licence/S5/Frameworks et Technologies Big Data/Les 5 Dimensions du Big Data.md",
-    "Licence/S5/Frameworks et Technologies Big Data/Domaines d'application de Big Data.md",
-    "Licence/S5/Frameworks et Technologies Big Data/Big Data.md",
-    "Licence/S5/Frameworks et Technologies Big Data/Frameworks et Technologies Big Data.md",
-    "Licence/S5/Frameworks et Technologies Big Data/Dtributed Programming FrameWork - MapReduce.md"
+    "Excalidraw/Drawing 2021-11-02 14.53.06.excalidraw.md",
+    "geNIE/archive.ics.ucs.edu.md",
+    "Licence/S5/Machine Learning/Machine Learning.md",
+    "Licence/S5/Frameworks et Technologies Big Data/Hadoop distributed file System - HDFS.md",
+    "Excalidraw/Drawing 2021-11-01 11.48.12.excalidraw.md",
+    "Excalidraw/Drawing 2021-11-01 12.55.06.excalidraw.md"
   ]
 }
