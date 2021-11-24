@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "e962143df9222e74",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -125,6 +136,7 @@
   "active": "b4fd56df883a3e7d",
   "lastOpenFiles": [
     "Licence/S5/Machine Learning/Machine Learning.md",
+    "conflict-files-obsidian-git.md",
     "Licence/S5/Preparation à l'environnement Professionnel/Preparation à l'environnement Professionnel.md",
     "Excalidraw/Drawing 2021-11-01 11.48.12.excalidraw.md",
     "Licence/S5/Cloud et Virtualisation/Ressources/TP 4. Stockage persistant, Dockerfile et Docker-compose.pdf",
@@ -132,7 +144,6 @@
     "geNIE/SMILE manipulation.md",
     "Excalidraw/Drawing 2021-10-14 16.11.31.excalidraw.md",
     "Excalidraw/Drawing 2021-11-02 14.53.06.excalidraw.md",
-    "geNIE/archive.ics.ucs.edu.md",
-    "Licence/S5/Frameworks et Technologies Big Data/Hadoop distributed file System - HDFS.md"
+    "geNIE/archive.ics.ucs.edu.md"
   ]
 }
