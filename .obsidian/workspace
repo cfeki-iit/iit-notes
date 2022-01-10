@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b4fd56df883a3e7d",
+        "id": "e68b4537e9075e56",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Licence/S5/Machine Learning/Machine Learning.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "e962143df9222e74",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "Licence/S5/Architecture Orientée Services/Architecture Orientée Services.md",
             "mode": "source"
           }
         }
@@ -65,7 +54,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Licence/S5/Machine Learning/Machine Learning.md"
+                "file": "Licence/S5/Architecture Orientée Services/Architecture Orientée Services.md"
               }
             }
           }
@@ -87,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312
+    "width": 198
   },
   "right": {
     "id": "0883c93ff886bb66",
@@ -103,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Licence/S5/Machine Learning/Machine Learning.md",
+                "file": "Licence/S5/Architecture Orientée Services/Architecture Orientée Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,17 +122,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b4fd56df883a3e7d",
+  "active": "e68b4537e9075e56",
   "lastOpenFiles": [
-    "Licence/S5/Machine Learning/Machine Learning.md",
-    "conflict-files-obsidian-git.md",
-    "Licence/S5/Preparation à l'environnement Professionnel/Preparation à l'environnement Professionnel.md",
-    "Excalidraw/Drawing 2021-11-01 11.48.12.excalidraw.md",
-    "Licence/S5/Cloud et Virtualisation/Ressources/TP 4. Stockage persistant, Dockerfile et Docker-compose.pdf",
-    "Licence/S5/Cloud et Virtualisation/Cloud et Virtualisation.md",
-    "geNIE/SMILE manipulation.md",
+    "Licence/S5/Architecture Orientée Services/Architecture Orientée Services.md",
+    "Licence/S5/Frameworks et Technologies Big Data/Dtributed Programming FrameWork - MapReduce.md",
+    "Licence/S5/Frameworks et Technologies Big Data/HADOOP.md",
+    "Licence/S5/Frameworks et Technologies Big Data/Hadoop distributed file System - HDFS.md",
+    "Licence/S5/Frameworks et Technologies Big Data/La distribution des données en Big Data.md",
+    "Excalidraw/Drawing 2021-11-01 12.55.06.excalidraw.md",
     "Excalidraw/Drawing 2021-10-14 16.11.31.excalidraw.md",
-    "Excalidraw/Drawing 2021-11-02 14.53.06.excalidraw.md",
-    "geNIE/archive.ics.ucs.edu.md"
+    "Licence/S5/Developpement d'applications Réparties/Developpement d'applications Réparties.md",
+    "Licence/S5/Frameworks et Technologies Big Data/Les 5 Dimensions du Big Data.md",
+    "Licence/S5/Frameworks et Technologies Big Data/Domaines d'application de Big Data.md"
   ]
 }
